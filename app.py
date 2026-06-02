@@ -11,23 +11,20 @@ import os
 from pathlib import Path
 
 from fastapi import FastAPI, HTTPException, Request
-from fastapi.responses import HTMLResponse, JSONResponse
+from fastapi.responses import JSONResponse
 from anthropic import Anthropic
 
 HERE = Path(__file__).resolve().parent
 DATA_PATH = HERE / 'data' / 'attendees.json'
-INDEX_HTML = HERE / 'public' / 'index.html'
 MODEL = 'claude-sonnet-4-6'
 
 app = FastAPI(title='Programmatic Pioneers Lookup')
 
-# Read static files into memory at module load. Vercel's serverless bundle
-# preserves files listed via includeFiles in vercel.json, but reading them once
-# avoids per-request disk I/O.
+# Load attendee data once at module load. The /public directory is served
+# automatically by Vercel as static assets, so the frontend HTML lives there
+# rather than being read by this app.
 with open(DATA_PATH) as f:
     _DATA = json.load(f)
-with open(INDEX_HTML) as f:
-    _INDEX_HTML = f.read()
 
 
 def load_data():
@@ -70,11 +67,6 @@ def fuzzy_search(attendees, query, limit=10):
         return 3
     matches.sort(key=rank)
     return matches[:limit]
-
-
-@app.get('/', response_class=HTMLResponse)
-def index():
-    return _INDEX_HTML
 
 
 @app.get('/api/lookup')
