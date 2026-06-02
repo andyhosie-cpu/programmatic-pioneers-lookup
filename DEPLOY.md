@@ -32,22 +32,34 @@ By default the script reads from `~/Desktop/Brain/! Northell/CRM/attendees-progr
 ### 1. First-time setup
 Already done. Repo is at https://github.com/andyhosie-cpu/programmatic-pioneers-lookup. Vercel project is `attendees-app` under the `andys-projects-21766ec0` team. SSO Deployment Protection is disabled so the URL is publicly reachable.
 
-### 2. Redeploy after changes
+### 2. Local iteration (no upload, no wait)
+For everything except final production verification, use `vercel dev`:
 ```bash
 cd "Conferences/2026-06-02/attendees-app"
+vercel dev
+```
+Runs the full app on `http://localhost:3000` with hot reload. Edits to `app.py`, `static/index.html`, or `data/attendees.json` show up instantly without uploading.
+
+### 3. Redeploy after changes (auto via git push)
+This Vercel project is linked to the GitHub repo, so a normal push triggers a production deploy:
+```bash
 git add . && git commit -m "..." && git push
+```
+No need to run `vercel deploy` separately. Watch the deploy at https://vercel.com/andys-projects-21766ec0/attendees-app.
+
+If you need to deploy without committing (uncommitted local changes), use:
+```bash
 vercel deploy --prod --yes
 ```
-Or just push to `main` if you have a GitHub-to-Vercel auto-deploy hook configured.
 
-### 3. Set or rotate the Anthropic API key
+### 4. Set or rotate the Anthropic API key
 ```bash
 vercel env add ANTHROPIC_API_KEY production
 # paste the key when prompted
 vercel deploy --prod --yes
 ```
 
-### 4. Production URL
+### 5. Production URL
 `https://attendees-app.vercel.app`
 
 ## Notes
