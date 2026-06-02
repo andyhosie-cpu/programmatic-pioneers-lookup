@@ -11,7 +11,7 @@ import os
 from pathlib import Path
 
 from fastapi import FastAPI, HTTPException, Request
-from fastapi.responses import FileResponse, JSONResponse
+from fastapi.responses import HTMLResponse, JSONResponse
 from anthropic import Anthropic
 
 HERE = Path(__file__).resolve().parent
@@ -21,10 +21,17 @@ MODEL = 'claude-sonnet-4-6'
 
 app = FastAPI(title='Programmatic Pioneers Lookup')
 
+# Read static files into memory at module load. Vercel's serverless bundle
+# preserves files listed via includeFiles in vercel.json, but reading them once
+# avoids per-request disk I/O.
+with open(DATA_PATH) as f:
+    _DATA = json.load(f)
+with open(INDEX_HTML) as f:
+    _INDEX_HTML = f.read()
+
 
 def load_data():
-    with open(DATA_PATH) as f:
-        return json.load(f)
+    return _DATA
 
 
 def build_target_indexes(data):
@@ -65,9 +72,9 @@ def fuzzy_search(attendees, query, limit=10):
     return matches[:limit]
 
 
-@app.get('/')
+@app.get('/', response_class=HTMLResponse)
 def index():
-    return FileResponse(INDEX_HTML)
+    return _INDEX_HTML
 
 
 @app.get('/api/lookup')
