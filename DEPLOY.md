@@ -12,7 +12,7 @@ attendees-app/
   public/index.html    - Frontend (search + results + chat)
   build_data.py        - One-shot xlsx-to-json converter (run before deploying)
   vercel.json          - Vercel routing config
-  requirements.txt     - Python dependencies
+  api/requirements.txt - Python dependencies (scoped to /api/ so Vercel treats each .py as a serverless function, not a full-app entrypoint)
 ```
 
 ## Build the data first
