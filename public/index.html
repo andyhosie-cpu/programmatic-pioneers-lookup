@@ -1,0 +1,1166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Programmatic Pioneers Lookup</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-size: 10px;
+  line-height: 1.65;
+  color: #1a1a1a;
+  background: #f7f5f2;
+}
+
+.app-header {
+  background: #fff;
+  border-bottom: 3px solid #FF4500;
+  padding: 20px 28px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+.app-header h1 {
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: -0.3px;
+  color: #111;
+}
+.app-header .subtitle {
+  font-size: 10px;
+  color: #888;
+  margin-top: 4px;
+}
+.app-header .meta {
+  font-size: 9px;
+  color: #aaa;
+  margin-top: 2px;
+}
+.export-btn {
+  padding: 8px 14px;
+  background: #FF4500;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 9px;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  cursor: pointer;
+  transition: background 0.12s;
+  position: relative;
+}
+.export-btn:hover { background: #e03d00; }
+.export-btn .count-badge {
+  display: inline-block;
+  margin-left: 6px;
+  background: #fff;
+  color: #FF4500;
+  border-radius: 10px;
+  padding: 1px 7px;
+  font-size: 9px;
+  font-weight: 700;
+}
+
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 24px;
+  display: grid;
+  grid-template-columns: 1fr 480px;
+  gap: 24px;
+}
+@media (max-width: 1100px) {
+  .container { grid-template-columns: 1fr; }
+}
+
+/* Search bar */
+.search-card {
+  background: #fff;
+  border-radius: 6px;
+  border: 1px solid #e8e6e2;
+  padding: 18px 20px;
+  margin-bottom: 16px;
+}
+.search-card label {
+  font-size: 9px;
+  font-weight: 700;
+  color: #FF4500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  display: block;
+  margin-bottom: 8px;
+}
+.search-row {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+.search-row input {
+  flex: 1;
+  padding: 9px 12px;
+  border: 1px solid #d9d6d2;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 12px;
+}
+.search-row input:focus {
+  outline: none;
+  border-color: #FF4500;
+}
+.quick-filters {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+.quick-filters button {
+  padding: 5px 10px;
+  background: #fff;
+  border: 1px solid #d9d6d2;
+  border-radius: 12px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 9px;
+  font-weight: 600;
+  color: #555;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  transition: all 0.12s;
+}
+.quick-filters button:hover {
+  border-color: #FF4500;
+  color: #FF4500;
+}
+.quick-filters button.active {
+  background: #FF4500;
+  color: #fff;
+  border-color: #FF4500;
+}
+
+/* Results */
+.results-wrap {
+  background: #fff;
+  border-radius: 6px;
+  border: 1px solid #e8e6e2;
+  overflow: hidden;
+}
+.results-header {
+  padding: 12px 20px;
+  background: #fafaf8;
+  border-bottom: 1px solid #e8e6e2;
+  font-size: 9px;
+  font-weight: 700;
+  color: #FF4500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.results-header .count {
+  color: #888;
+  font-weight: 500;
+  letter-spacing: 0;
+  text-transform: none;
+}
+.results-body {
+  padding: 8px 0;
+  max-height: calc(100vh - 280px);
+  overflow-y: auto;
+}
+
+/* Person card */
+.person {
+  padding: 14px 20px;
+  border-bottom: 1px solid #f0eeea;
+}
+.person:last-child { border-bottom: none; }
+.person.tier1 { background: #FFE4E6; }
+.person.tier1 .person-name { color: #b91c1c; }
+
+.person-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 10px;
+  margin-bottom: 4px;
+}
+.person-name {
+  font-size: 12px;
+  font-weight: 700;
+  color: #111;
+  letter-spacing: -0.2px;
+}
+.person-id {
+  font-size: 9px;
+  color: #aaa;
+  font-weight: 500;
+}
+.person-role {
+  font-size: 10px;
+  color: #444;
+  margin-bottom: 6px;
+}
+.person-company {
+  font-weight: 600;
+  color: #1a1a1a;
+}
+.person-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin: 6px 0;
+}
+.tag {
+  font-size: 8px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  padding: 2px 7px;
+  border-radius: 3px;
+  background: #f0eeea;
+  color: #555;
+}
+.tag.tier-1, .tag.priority-decision, .tag.priority-highest, .tag.tier-1-product, .tag.tier-1-decision {
+  background: #FF4500;
+  color: #fff;
+}
+.tag.tier-2 { background: #fde4d3; color: #92400e; }
+.tag.indie-lead { background: #fef3c7; color: #92400e; }
+.tag.vertical { background: #ddd6fe; color: #5b21b6; }
+.tag.bc-contact { background: #cffafe; color: #0e7490; }
+
+.person-notes {
+  font-size: 10px;
+  color: #555;
+  margin-top: 6px;
+  font-style: italic;
+}
+.person-link {
+  display: inline-block;
+  font-size: 9px;
+  color: #FF4500;
+  text-decoration: none;
+  font-weight: 600;
+  margin-top: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+}
+.person-link:hover { text-decoration: underline; }
+
+/* Note editor */
+.note-editor {
+  margin-top: 10px;
+  padding: 8px 10px;
+  background: #fafaf8;
+  border: 1px solid #e8e6e2;
+  border-radius: 4px;
+}
+.note-editor .row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 6px;
+}
+.note-editor label {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 9px;
+  font-weight: 700;
+  color: #555;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  cursor: pointer;
+}
+.note-editor input[type="checkbox"] {
+  width: 14px;
+  height: 14px;
+  accent-color: #FF4500;
+  cursor: pointer;
+}
+.note-editor textarea {
+  width: 100%;
+  min-height: 36px;
+  padding: 6px 8px;
+  border: 1px solid #d9d6d2;
+  border-radius: 3px;
+  font-family: inherit;
+  font-size: 10px;
+  line-height: 1.5;
+  resize: vertical;
+  background: #fff;
+}
+.note-editor textarea:focus { outline: none; border-color: #FF4500; }
+.note-editor .saved-flag {
+  font-size: 8px;
+  color: #16a34a;
+  font-weight: 600;
+  margin-left: auto;
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+.note-editor .saved-flag.show { opacity: 1; }
+
+.has-note-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  background: #FF4500;
+  border-radius: 50%;
+  margin-left: 6px;
+  vertical-align: middle;
+}
+
+/* Export modal */
+.modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.45);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  padding: 24px;
+}
+.modal-backdrop.show { display: flex; }
+.modal {
+  background: #fff;
+  border-radius: 8px;
+  max-width: 760px;
+  width: 100%;
+  max-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.25);
+}
+.modal-head {
+  padding: 16px 22px;
+  background: #fafaf8;
+  border-bottom: 1px solid #e8e6e2;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.modal-head h2 {
+  font-size: 13px;
+  font-weight: 700;
+  color: #FF4500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.modal-head .close {
+  background: none;
+  border: none;
+  font-size: 20px;
+  color: #888;
+  cursor: pointer;
+  padding: 0 4px;
+}
+.modal-head .close:hover { color: #FF4500; }
+.modal-body {
+  padding: 18px 22px;
+  overflow-y: auto;
+  flex: 1;
+}
+.modal-body p {
+  font-size: 10px;
+  color: #555;
+  margin-bottom: 10px;
+  line-height: 1.55;
+}
+.modal-body textarea {
+  width: 100%;
+  height: 320px;
+  font-family: ui-monospace, 'SF Mono', Menlo, monospace;
+  font-size: 10px;
+  line-height: 1.5;
+  padding: 10px 12px;
+  border: 1px solid #d9d6d2;
+  border-radius: 4px;
+  resize: vertical;
+  background: #fafaf8;
+}
+.modal-body textarea:focus { outline: none; border-color: #FF4500; }
+.modal-foot {
+  padding: 12px 22px;
+  border-top: 1px solid #e8e6e2;
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}
+.modal-foot button {
+  padding: 7px 14px;
+  border-radius: 4px;
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  cursor: pointer;
+  border: 1px solid #d9d6d2;
+  background: #fff;
+  color: #555;
+  transition: all 0.12s;
+}
+.modal-foot button:hover { border-color: #FF4500; color: #FF4500; }
+.modal-foot button.primary {
+  background: #FF4500;
+  color: #fff;
+  border-color: #FF4500;
+}
+.modal-foot button.primary:hover { background: #e03d00; }
+.modal-foot button.danger:hover { border-color: #ef4444; color: #ef4444; }
+
+/* Callouts for target detail */
+.callout {
+  background: #FFF5F0;
+  border-left: 3px solid #FF4500;
+  padding: 8px 12px;
+  margin: 8px 0 4px;
+  border-radius: 0 4px 4px 0;
+}
+.callout .callout-label {
+  font-size: 8px;
+  font-weight: 700;
+  color: #FF4500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  display: block;
+  margin-bottom: 3px;
+}
+.callout .callout-body {
+  font-size: 10px;
+  color: #333;
+  line-height: 1.55;
+}
+.callout .callout-meta {
+  font-size: 9px;
+  color: #888;
+  margin-top: 2px;
+}
+
+.callout.bc {
+  background: #f0fbfd;
+  border-left-color: #0e7490;
+}
+.callout.bc .callout-label { color: #0e7490; }
+
+/* Empty / loading */
+.empty {
+  padding: 40px 20px;
+  text-align: center;
+  color: #888;
+  font-size: 11px;
+}
+.empty strong { color: #555; }
+
+/* Chat panel */
+.chat-panel {
+  background: #fff;
+  border-radius: 6px;
+  border: 1px solid #e8e6e2;
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 130px);
+  position: sticky;
+  top: 24px;
+  min-height: 480px;
+}
+.chat-header {
+  padding: 12px 20px;
+  border-bottom: 2px solid #FF4500;
+  font-weight: 700;
+  font-size: 10px;
+  color: #FF4500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.chat-messages {
+  flex: 1;
+  overflow-y: auto;
+  padding: 16px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-height: 0;
+}
+.msg {
+  padding: 9px 12px;
+  border-radius: 8px;
+  font-size: 11px;
+  line-height: 1.55;
+}
+.msg-user {
+  background: #FF4500;
+  color: #fff;
+  align-self: flex-end;
+  border-bottom-right-radius: 2px;
+  max-width: 85%;
+}
+.msg-bot {
+  background: #fafaf8;
+  color: #1a1a1a;
+  align-self: flex-start;
+  border-bottom-left-radius: 2px;
+  width: 100%;
+  border: 1px solid #f0eeea;
+}
+.msg-bot p { margin-bottom: 4px; }
+.msg-bot p:last-child { margin-bottom: 0; }
+.msg-bot ul, .msg-bot ol { margin: 4px 0 4px 16px; }
+.msg-bot li { margin-bottom: 2px; }
+.msg-bot h3, .msg-bot h4 {
+  margin: 8px 0 3px;
+  font-size: 11px;
+  color: #FF4500;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+}
+.msg-bot table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 10px;
+  margin: 6px 0;
+}
+.msg-bot th {
+  background: #FFE0D0;
+  text-align: left;
+  padding: 5px 7px;
+  border: 1px solid #e8e6e2;
+  font-weight: 600;
+  font-size: 9px;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  color: #333;
+}
+.msg-bot td {
+  padding: 4px 7px;
+  border: 1px solid #f0eeea;
+  vertical-align: top;
+}
+.msg-bot tr:nth-child(even) td { background: #fafaf8; }
+.msg-bot strong { font-weight: 700; }
+.msg-bot code {
+  background: #f0eeea;
+  padding: 1px 4px;
+  border-radius: 3px;
+  font-family: ui-monospace, monospace;
+  font-size: 10px;
+}
+.chat-input-wrap {
+  padding: 10px 12px;
+  border-top: 1px solid #e8e6e2;
+  display: flex;
+  gap: 6px;
+}
+.chat-input {
+  flex: 1;
+  padding: 8px 10px;
+  border: 1px solid #d9d6d2;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 11px;
+}
+.chat-input:focus { outline: none; border-color: #FF4500; }
+.chat-send {
+  padding: 8px 14px;
+  background: #FF4500;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-family: inherit;
+  font-weight: 600;
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  cursor: pointer;
+  transition: background 0.12s;
+}
+.chat-send:hover { background: #e03d00; }
+.chat-send:disabled { background: #ccc; cursor: not-allowed; }
+.typing {
+  color: #888;
+  font-style: italic;
+  font-size: 10px;
+  padding: 6px 12px;
+}
+
+/* Briefing section */
+.brief {
+  background: #fff;
+  border-radius: 6px;
+  border: 1px solid #e8e6e2;
+  margin-top: 16px;
+  overflow: hidden;
+}
+.brief-head {
+  padding: 12px 20px;
+  background: #fafaf8;
+  border-bottom: 1px solid #e8e6e2;
+  font-size: 9px;
+  font-weight: 700;
+  color: #FF4500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.brief-body {
+  padding: 16px 20px;
+}
+.brief-grid {
+  display: grid;
+  grid-template-columns: 130px 1fr;
+  gap: 6px 14px;
+  font-size: 10px;
+}
+.brief-grid .k {
+  font-weight: 600;
+  color: #555;
+  text-transform: uppercase;
+  font-size: 9px;
+  letter-spacing: 0.3px;
+}
+.brief-grid .v { color: #1a1a1a; }
+.brief-section-head {
+  font-size: 10px;
+  font-weight: 700;
+  color: #FF4500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin: 18px 0 8px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #FF4500;
+}
+.brief-section-head:first-child { margin-top: 0; }
+</style>
+</head>
+<body>
+
+<div class="app-header">
+  <div>
+    <h1>Programmatic Pioneers Lookup</h1>
+    <div class="subtitle">London, 2 June 2026 - 451 attendees - Northell research view</div>
+    <div class="meta">Captured by Andy Hosie, Head of Strategy, Northell</div>
+  </div>
+  <button class="export-btn" onclick="openExportModal()">Export notes<span class="count-badge" id="note-count-badge">0</span></button>
+</div>
+
+<div class="modal-backdrop" id="export-modal" onclick="if(event.target===this)closeExportModal()">
+  <div class="modal">
+    <div class="modal-head">
+      <h2>Notes for the Excel sync</h2>
+      <button class="close" onclick="closeExportModal()">&times;</button>
+    </div>
+    <div class="modal-body">
+      <p>Paste this block into Claude with the instruction: <em>"Update <code>attendees-programmatic-pioneers-2026-06-02.xlsx</code>: tick Met? and write Follow-up text against each named row in the Attendees sheet."</em></p>
+      <textarea id="export-textarea" readonly></textarea>
+    </div>
+    <div class="modal-foot">
+      <button class="danger" onclick="clearAllNotes()">Clear all</button>
+      <button onclick="closeExportModal()">Close</button>
+      <button class="primary" onclick="copyExport()">Copy to clipboard</button>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="main">
+    <div class="search-card">
+      <label>Search</label>
+      <div class="search-row">
+        <input type="text" id="search-input" placeholder="Name or company, e.g. 'Barfield' or 'Dentsu'" autocomplete="off"
+          oninput="onSearchInput()" onkeydown="if(event.key==='Enter')runSearch()">
+      </div>
+      <div class="quick-filters">
+        <button onclick="quickFilter('reset')">All targets</button>
+        <button onclick="quickFilter('tier1')">Agency Tier 1</button>
+        <button onclick="quickFilter('trade')">Trade body</button>
+        <button onclick="quickFilter('bc')">Better Collective</button>
+        <button onclick="quickFilter('highest')">Highest priority</button>
+      </div>
+    </div>
+
+    <div class="results-wrap">
+      <div class="results-header">
+        <span id="results-label">Results</span>
+        <span class="count" id="results-count"></span>
+      </div>
+      <div class="results-body" id="results-body">
+        <div class="empty">Loading...</div>
+      </div>
+    </div>
+
+    <div class="brief" id="bc-brief" style="display:none;">
+      <div class="brief-head">Better Collective - Account Brief</div>
+      <div class="brief-body" id="bc-brief-body"></div>
+    </div>
+  </div>
+
+  <div class="chat-panel">
+    <div class="chat-header">Ask About the Room</div>
+    <div class="chat-messages" id="chat-messages">
+      <div class="msg msg-bot">Mid-conference research assistant. Try: "Who from Publicis is here?", "Walk me through the Better Collective angle", "Which holdco has the most Tier 1 contacts?", "Find me anyone in retail media."</div>
+    </div>
+    <div class="chat-input-wrap">
+      <input class="chat-input" id="chat-input" placeholder="Ask a question..." onkeydown="if(event.key==='Enter')sendMessage()">
+      <button class="chat-send" id="chat-send" onclick="sendMessage()">Send</button>
+    </div>
+  </div>
+</div>
+
+<script>
+let baselineData = null;
+let chatHistory = [];
+let activeFilter = 'reset';
+let searchTimer = null;
+
+/* Local-only notes store. Keyed by lowercased name. Persists in localStorage. */
+const NOTES_KEY = 'pps-notes-v1';
+let userNotes = {};
+
+function loadUserNotes() {
+  try {
+    userNotes = JSON.parse(localStorage.getItem(NOTES_KEY) || '{}');
+  } catch (e) {
+    userNotes = {};
+  }
+}
+
+function persistUserNotes() {
+  localStorage.setItem(NOTES_KEY, JSON.stringify(userNotes));
+  updateNoteCountBadge();
+}
+
+function noteKey(name) {
+  return (name || '').toLowerCase().trim();
+}
+
+function getNote(name) {
+  return userNotes[noteKey(name)] || { met: false, follow_up: '', company: '' };
+}
+
+function setNoteField(name, company, field, value) {
+  const k = noteKey(name);
+  if (!userNotes[k]) userNotes[k] = { met: false, follow_up: '', company: company || '' };
+  userNotes[k][field] = value;
+  userNotes[k].company = company || userNotes[k].company || '';
+  userNotes[k].name = name;
+  userNotes[k].updated = new Date().toISOString();
+  // Prune empty entries so the badge count stays honest.
+  if (!userNotes[k].met && !(userNotes[k].follow_up || '').trim()) {
+    delete userNotes[k];
+  }
+  persistUserNotes();
+}
+
+function countActiveNotes() {
+  return Object.values(userNotes).filter(n => n.met || (n.follow_up || '').trim()).length;
+}
+
+function updateNoteCountBadge() {
+  const el = document.getElementById('note-count-badge');
+  if (el) el.textContent = countActiveNotes();
+}
+
+async function init() {
+  loadUserNotes();
+  const res = await fetch('/api/lookup');
+  baselineData = await res.json();
+  renderBriefing();
+  renderDefault();
+  updateNoteCountBadge();
+}
+
+function escHtml(s) {
+  if (s == null) return '';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function tierClass(tier) {
+  if (!tier) return '';
+  return 'tag tier-' + tier.toLowerCase().replace(/\s+/g,'-');
+}
+function priorityClass(priority) {
+  if (!priority) return '';
+  return 'tag priority-' + priority.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+}
+function lensClass(lens) {
+  if (!lens) return '';
+  return 'tag tier-' + lens.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+}
+
+function renderPerson(p, opts = {}) {
+  const isTier1 = (p.agency_target && p.agency_target.tier === 'TIER 1')
+                  || (p.better_collective_contact && /TIER 1/.test(p.better_collective_contact.lens || ''))
+                  || (p.trade_body && /HIGHEST/.test(p.trade_body.priority || ''));
+  const tags = [];
+  if (p.trade_body) tags.push(`<span class="${priorityClass(p.trade_body.priority)}">Trade body: ${escHtml(p.trade_body.priority)}</span>`);
+  if (p.agency_target && p.agency_target.tier) tags.push(`<span class="${tierClass(p.agency_target.tier)}">${escHtml(p.agency_target.tier)}</span>`);
+  if (p.agency_target && p.agency_target.holdco) tags.push(`<span class="tag">${escHtml(p.agency_target.holdco)}</span>`);
+  if (p.better_collective_contact) tags.push(`<span class="tag bc-contact">BC: ${escHtml(p.better_collective_contact.lens)}</span>`);
+
+  const idStr = p.id != null ? `<span class="person-id">#${p.id}</span>` : '';
+
+  let html = `<div class="person ${isTier1 ? 'tier1' : ''}">`;
+  html += `<div class="person-head"><div class="person-name">${escHtml(p.name)}</div>${idStr}</div>`;
+  if (p.title) html += `<div class="person-role">${escHtml(p.title)}</div>`;
+  if (p.company || p.agency || p.org) html += `<div class="person-role person-company">${escHtml(p.company || p.agency || p.org || '')}</div>`;
+  if (tags.length) html += `<div class="person-tags">${tags.join('')}</div>`;
+
+  if (p.trade_body) {
+    html += `<div class="callout"><span class="callout-label">Trade body angle</span>
+      <div class="callout-body">${escHtml(p.trade_body.open_angle)}</div>
+      <div class="callout-meta">${escHtml(p.trade_body.org_meaning)}</div></div>`;
+  }
+  if (p.agency_target && p.agency_target.lens) {
+    html += `<div class="callout"><span class="callout-label">Agency lens</span>
+      <div class="callout-body">${escHtml(p.agency_target.lens)}</div></div>`;
+  }
+  if (p.better_collective_contact) {
+    html += `<div class="callout bc"><span class="callout-label">Better Collective context</span>
+      <div class="callout-body">${escHtml(p.better_collective_contact.notes)}</div></div>`;
+  }
+  if (p.notes) html += `<div class="person-notes">${escHtml(p.notes)}</div>`;
+  if (p.profile_url) html += `<a class="person-link" href="${escHtml(p.profile_url)}" target="_blank" rel="noopener">View Jujama profile &rarr;</a>`;
+
+  // Note editor - persists locally, exported back into the xlsx via the header button.
+  const note = getNote(p.name);
+  const company = p.company || p.agency || p.org || '';
+  const safeName = escHtml(p.name);
+  const safeCompany = escHtml(company);
+  const safeFollowUp = escHtml(note.follow_up || '');
+  const metChecked = note.met ? 'checked' : '';
+  html += `<div class="note-editor">
+    <div class="row">
+      <label><input type="checkbox" ${metChecked} onchange="onMetToggle(this, '${safeName.replace(/'/g, "\\'")}', '${safeCompany.replace(/'/g, "\\'")}')"> Met</label>
+      <span class="saved-flag" data-name="${safeName}">Saved</span>
+    </div>
+    <textarea placeholder="Follow-up note (saved on your device)..."
+      oninput="onNoteInput(this, '${safeName.replace(/'/g, "\\'")}', '${safeCompany.replace(/'/g, "\\'")}')">${safeFollowUp}</textarea>
+  </div>`;
+
+  html += '</div>';
+  return html;
+}
+
+let saveFlagTimers = {};
+function flashSaved(name) {
+  document.querySelectorAll(`.saved-flag[data-name="${CSS.escape(name)}"]`).forEach(el => {
+    el.classList.add('show');
+    clearTimeout(saveFlagTimers[name]);
+    saveFlagTimers[name] = setTimeout(() => el.classList.remove('show'), 1100);
+  });
+}
+
+function onMetToggle(checkbox, name, company) {
+  setNoteField(name, company, 'met', checkbox.checked);
+  flashSaved(name);
+}
+
+let noteInputTimers = {};
+function onNoteInput(textarea, name, company) {
+  const value = textarea.value;
+  clearTimeout(noteInputTimers[name]);
+  noteInputTimers[name] = setTimeout(() => {
+    setNoteField(name, company, 'follow_up', value);
+    flashSaved(name);
+  }, 250);
+}
+
+function renderResults(label, items, count) {
+  document.getElementById('results-label').textContent = label;
+  document.getElementById('results-count').textContent = count != null ? `${count} result${count === 1 ? '' : 's'}` : '';
+  const body = document.getElementById('results-body');
+  if (!items || items.length === 0) {
+    body.innerHTML = '<div class="empty">No matches. Try a different name or company.</div>';
+    return;
+  }
+  body.innerHTML = items.map(p => renderPerson(p)).join('');
+}
+
+function renderDefault() {
+  const sections = [];
+  const tier1 = baselineData.agency_tier_1.map(a => renderPerson({
+    name: a.name, title: a.title, company: a.agency, profile_url: a.profile_url,
+    agency_target: a,
+  }));
+  const trade = baselineData.trade_body_targets.map(t => renderPerson({
+    name: t.name, title: t.title, company: t.org, profile_url: t.profile_url,
+    trade_body: t,
+  }));
+  const bc = baselineData.better_collective_in_room.map(c => renderPerson({
+    name: c.name, title: c.title, company: 'Better Collective', profile_url: c.profile_url,
+    better_collective_contact: c,
+  }));
+
+  const body = document.getElementById('results-body');
+  let html = '';
+  html += `<div class="brief-section-head" style="padding: 12px 20px 4px;">Trade body targets (${trade.length})</div>` + trade.join('');
+  html += `<div class="brief-section-head" style="padding: 12px 20px 4px;">Agency Tier 1 (${tier1.length})</div>` + tier1.join('');
+  html += `<div class="brief-section-head" style="padding: 12px 20px 4px;">Better Collective in room (${bc.length})</div>` + bc.join('');
+  document.getElementById('results-label').textContent = 'Prioritised target list';
+  document.getElementById('results-count').textContent = `${trade.length + tier1.length + bc.length} contacts`;
+  body.innerHTML = html;
+}
+
+function renderBriefing() {
+  // Show Better Collective brief at bottom of main column
+  const bc = baselineData; // no - we need full
+  // Need full BC. Fetch on demand to avoid bloating default.
+  fetch('/api/lookup?company=Better Collective').then(r => r.json()).then(d => {
+    // Just lists people, not the full brief. We will inline the brief via /api/lookup root + ad-hoc constant from server?
+    // Simpler: pull a dedicated brief from baselineData (better_collective_in_room exists; for full company brief, expose via separate fetch)
+  });
+
+  // For now: pull full BC brief by direct fetch on data file path is not allowed; rely on chat for the deep brief.
+  // Instead, render a compact summary card here from what's in /api/lookup (root): in-room contacts already shown above.
+  document.getElementById('bc-brief').style.display = 'none';
+}
+
+function onSearchInput() {
+  clearTimeout(searchTimer);
+  const q = document.getElementById('search-input').value.trim();
+  if (q.length < 2) {
+    if (q.length === 0) renderDefault();
+    return;
+  }
+  searchTimer = setTimeout(runSearch, 180);
+}
+
+async function runSearch() {
+  const q = document.getElementById('search-input').value.trim();
+  if (!q) { renderDefault(); return; }
+  const res = await fetch('/api/lookup?name=' + encodeURIComponent(q));
+  const data = await res.json();
+  renderResults(`Search: "${q}"`, data.results, data.count);
+}
+
+async function quickFilter(kind) {
+  document.getElementById('search-input').value = '';
+  activeFilter = kind;
+  if (kind === 'reset') {
+    renderDefault();
+    return;
+  }
+  if (kind === 'tier1') {
+    const res = await fetch('/api/lookup?tier=TIER%201');
+    const data = await res.json();
+    const items = data.results.map(a => ({
+      name: a.name, title: a.title, company: a.agency, profile_url: a.profile_url, agency_target: a,
+    }));
+    renderResults('Agency Tier 1', items, items.length);
+    return;
+  }
+  if (kind === 'trade') {
+    const items = baselineData.trade_body_targets.map(t => ({
+      name: t.name, title: t.title, company: t.org, profile_url: t.profile_url, trade_body: t,
+    }));
+    renderResults('Trade body targets', items, items.length);
+    return;
+  }
+  if (kind === 'bc') {
+    const items = baselineData.better_collective_in_room.map(c => ({
+      name: c.name, title: c.title, company: 'Better Collective', profile_url: c.profile_url, better_collective_contact: c,
+    }));
+    renderResults('Better Collective in room', items, items.length);
+    return;
+  }
+  if (kind === 'highest') {
+    const res = await fetch('/api/lookup?priority=HIGHEST');
+    const data = await res.json();
+    const items = data.results.map(t => ({
+      name: t.name, title: t.title, company: t.org, profile_url: t.profile_url, trade_body: t,
+    }));
+    renderResults('Highest priority trade body', items, items.length);
+    return;
+  }
+}
+
+/* CHAT */
+async function sendMessage() {
+  const input = document.getElementById('chat-input');
+  const q = input.value.trim();
+  if (!q) return;
+  const msgs = document.getElementById('chat-messages');
+  const userMsg = document.createElement('div');
+  userMsg.className = 'msg msg-user';
+  userMsg.textContent = q;
+  msgs.appendChild(userMsg);
+  input.value = '';
+  scrollChat();
+
+  const sendBtn = document.getElementById('chat-send');
+  sendBtn.disabled = true;
+  const typingEl = document.createElement('div');
+  typingEl.className = 'typing';
+  typingEl.textContent = 'Thinking...';
+  msgs.appendChild(typingEl);
+  scrollChat();
+
+  chatHistory.push({ role: 'user', content: q });
+
+  try {
+    const res = await fetch('/api/query', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ question: q, history: chatHistory.slice(0, -1) })
+    });
+    const data = await res.json();
+    typingEl.remove();
+    const botMsg = document.createElement('div');
+    botMsg.className = 'msg msg-bot';
+    if (data.error) {
+      botMsg.style.color = '#ef4444';
+      botMsg.textContent = data.error;
+    } else {
+      botMsg.innerHTML = markdownToHtml(data.answer);
+      chatHistory.push({ role: 'assistant', content: data.answer });
+    }
+    msgs.appendChild(botMsg);
+  } catch (e) {
+    typingEl.remove();
+    const errMsg = document.createElement('div');
+    errMsg.className = 'msg msg-bot';
+    errMsg.style.color = '#ef4444';
+    errMsg.textContent = 'Sorry, something went wrong. Please try again.';
+    msgs.appendChild(errMsg);
+  }
+
+  sendBtn.disabled = false;
+  scrollChat();
+}
+
+function scrollChat() {
+  const msgs = document.getElementById('chat-messages');
+  requestAnimationFrame(() => { msgs.scrollTop = msgs.scrollHeight; });
+}
+
+/* Markdown renderer (mirrors Lumo rota) */
+function markdownToHtml(md) {
+  const lines = md.split('\n');
+  let html = '';
+  let inTable = false;
+  let tableLines = [];
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    if (line.trim().startsWith('|') && line.trim().endsWith('|')) {
+      if (!inTable) { inTable = true; tableLines = []; }
+      tableLines.push(line);
+      continue;
+    }
+    if (inTable) {
+      html += renderMarkdownTable(tableLines);
+      inTable = false;
+      tableLines = [];
+    }
+    if (line.startsWith('#### ')) {
+      html += `<h4>${formatInline(line.slice(5))}</h4>`;
+    } else if (line.startsWith('### ')) {
+      html += `<h3>${formatInline(line.slice(4))}</h3>`;
+    } else if (line.startsWith('## ')) {
+      html += `<h3>${formatInline(line.slice(3))}</h3>`;
+    } else if (line.match(/^- /)) {
+      let items = [line.slice(2)];
+      while (i + 1 < lines.length && lines[i + 1].match(/^- /)) { i++; items.push(lines[i].slice(2)); }
+      html += '<ul>' + items.map(it => `<li>${formatInline(it)}</li>`).join('') + '</ul>';
+    } else if (line.trim() === '') {
+      html += '<br>';
+    } else {
+      html += `<p>${formatInline(line)}</p>`;
+    }
+  }
+  if (inTable) html += renderMarkdownTable(tableLines);
+  return html;
+}
+function renderMarkdownTable(lines) {
+  if (lines.length < 2) return lines.map(l => `<p>${escHtml(l)}</p>`).join('');
+  const rows = lines
+    .filter(l => !l.trim().match(/^\|[\s\-:|]+\|$/))
+    .map(l => l.split('|').slice(1, -1).map(c => c.trim()));
+  if (rows.length === 0) return '';
+  const header = rows[0];
+  const body = rows.slice(1);
+  let table = '<table><thead><tr>';
+  header.forEach(h => { table += `<th>${formatInline(h)}</th>`; });
+  table += '</tr></thead><tbody>';
+  body.forEach(row => {
+    table += '<tr>';
+    row.forEach(cell => { table += `<td>${formatInline(cell)}</td>`; });
+    table += '</tr>';
+  });
+  table += '</tbody></table>';
+  return table;
+}
+function formatInline(text) {
+  return escHtml(text)
+    .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*(.*?)\*/g, '<em>$1</em>')
+    .replace(/`(.*?)`/g, '<code>$1</code>');
+}
+
+/* Export modal */
+function buildExportMarkdown() {
+  const entries = Object.values(userNotes)
+    .filter(n => n.met || (n.follow_up || '').trim())
+    .sort((a, b) => (a.name || '').localeCompare(b.name || ''));
+  if (entries.length === 0) {
+    return 'No notes captured yet. Tick Met or write a follow-up against any contact to populate this export.';
+  }
+  const header = '| Name | Company | Met | Follow-up |\n|------|---------|-----|-----------|';
+  const rows = entries.map(n => {
+    const fu = (n.follow_up || '').replace(/\|/g, '\\|').replace(/\n+/g, ' / ');
+    return `| ${n.name} | ${n.company || ''} | ${n.met ? 'Yes' : ''} | ${fu} |`;
+  });
+  const preamble = `Programmatic Pioneers Summit - notes export\nConference date: 2026-06-02\nExported: ${new Date().toISOString()}\nContacts logged: ${entries.length}\n\n`;
+  return preamble + header + '\n' + rows.join('\n');
+}
+
+function openExportModal() {
+  document.getElementById('export-textarea').value = buildExportMarkdown();
+  document.getElementById('export-modal').classList.add('show');
+}
+
+function closeExportModal() {
+  document.getElementById('export-modal').classList.remove('show');
+}
+
+async function copyExport() {
+  const text = document.getElementById('export-textarea').value;
+  try {
+    await navigator.clipboard.writeText(text);
+    const btn = event.target;
+    const original = btn.textContent;
+    btn.textContent = 'Copied';
+    setTimeout(() => { btn.textContent = original; }, 1200);
+  } catch (e) {
+    document.getElementById('export-textarea').select();
+    document.execCommand('copy');
+  }
+}
+
+function clearAllNotes() {
+  if (!confirm('Clear all notes from this device? The xlsx is not affected. This cannot be undone.')) return;
+  userNotes = {};
+  persistUserNotes();
+  document.getElementById('export-textarea').value = buildExportMarkdown();
+  // Re-render whatever is currently displayed so checkboxes and text reset.
+  if (activeFilter === 'reset') {
+    renderDefault();
+  } else {
+    quickFilter(activeFilter);
+  }
+}
+
+init();
+</script>
+
+</body>
+</html>

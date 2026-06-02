@@ -1,0 +1,6064 @@
+{
+  "metadata": {
+    "conference": "Programmatic Pioneers Summit",
+    "date": "2026-06-02",
+    "location": "London",
+    "organiser": "WBR",
+    "host": "Trish Lynch",
+    "captured_by": "Andy Hosie, Head of Strategy, Northell",
+    "total_attendees": 451
+  },
+  "attendees": [
+    {
+      "id": 1,
+      "name": "Pablo A Goya",
+      "title": "VP Europe",
+      "company": "mediasmart",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399491&CompanyId=1406058&from=attendee",
+      "notes": "Meet me: meetings.hubspot.com/pablo-goya",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 2,
+      "name": "Olivia Abraham",
+      "title": "Director of Change & Customer Success, Commercial Technology & Change",
+      "company": "ITV",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397335&CompanyId=1388334&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 3,
+      "name": "Sukadeb Acharya",
+      "title": "VP, Enterprise Performance & Brand Marketing Analytics",
+      "company": "Amex",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2369932&CompanyId=1388224&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 4,
+      "name": "Phil Acton",
+      "title": "Country Manager, UK",
+      "company": "Adform",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2369913&CompanyId=1388216&from=attendee",
+      "notes": "London. Responsible for expanding Adform's vision of Changing the Game",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 5,
+      "name": "Cliff Adams",
+      "title": "Assistant Vice President",
+      "company": "Manipal Digital",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401033&CompanyId=1405827&from=attendee",
+      "notes": "London",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 6,
+      "name": "Tom Adams",
+      "title": "Performance Marketing Lead",
+      "company": "Direct Line / Aviva",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370017&CompanyId=1403838&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 7,
+      "name": "Victoria Adams",
+      "title": "Sales Manager and Programmatic Lead",
+      "company": "Media Impact GmbH",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2369943&CompanyId=1403843&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 8,
+      "name": "Emmanuel Adepoju",
+      "title": "Addressable Senior Executive",
+      "company": "VCCP Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399490&CompanyId=1403942&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Defne Alemdar",
+      "title": "Digital and Media Manager",
+      "company": "Henkel Ltd.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397447&CompanyId=1403892&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 10,
+      "name": "Yvetta Alexandrova",
+      "title": "Global Senior Manager, Strategic Sourcing Media",
+      "company": "Uber",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397520&CompanyId=1403940&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 11,
+      "name": "Mohamed Al-Kaf",
+      "title": "Digital Planning Associate Director",
+      "company": "OMD UK",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400506&CompanyId=1388384&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Dan Alldis",
+      "title": "Proposition Lead",
+      "company": "Currys PLC",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397419&CompanyId=1403874&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 13,
+      "name": "Mohammed Amin",
+      "title": "Programmatic Account Manager",
+      "company": "Incubeta",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401783&CompanyId=1406142&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Naomi Amzaleg",
+      "title": "Digital Media Specialist",
+      "company": "Tesco",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370374&CompanyId=1388442&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 15,
+      "name": "Ina Arens",
+      "title": "Senior Director Biddable",
+      "company": "Omnicom Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401651&CompanyId=1405624&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_1"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Cameron Armstrong",
+      "title": "Addressable Director",
+      "company": "VCCP Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397522&CompanyId=1403942&from=attendee",
+      "notes": "Leads programmatic, addressable advertising strategy & execution",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_2"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Keith Arrowsmith",
+      "title": "Global Marketing Director",
+      "company": "Onetag",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398227&CompanyId=1388386&from=attendee",
+      "notes": "London. Leads market positioning, GTM strategy, voice of the customer",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 18,
+      "name": "Paul Astbury",
+      "title": "Digital Partnerships Director",
+      "company": "Nectar 360",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397347&CompanyId=1388371&from=attendee",
+      "notes": "20+ yrs digital advertising; IAS, Hivestack, Viant background",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 19,
+      "name": "William George Astbury",
+      "title": "Paid Search Senior Manager",
+      "company": "American Express",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397293&CompanyId=1388223&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 20,
+      "name": "Sara Ataei",
+      "title": "Associate",
+      "company": "Keller & Heckman",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401031&CompanyId=1403902&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 21,
+      "name": "Simon Atkins",
+      "title": "Head of Programmatic",
+      "company": "Hearts and Science",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397444&CompanyId=1403890&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_1"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Carmen Au",
+      "title": "Programmatic Manager",
+      "company": "Digitas UK",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399486&CompanyId=1405057&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "David Ayre",
+      "title": "Head of Programmatic Europe",
+      "company": "Assembly Global / Stagwell",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399751&CompanyId=1405195&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_1"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Muhammad Azka",
+      "title": "Brand Ad Partnerships Lead, Global",
+      "company": "Vinted",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370424&CompanyId=1388465&from=attendee",
+      "notes": "Client Director, Ad Partnerships & Client Branding",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 25,
+      "name": "Pedro Babé Montes",
+      "title": "Global Digital Omnichannel Marketing Manager",
+      "company": "COTY",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2369989&CompanyId=1388260&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 26,
+      "name": "Emma Babic",
+      "title": "Senior Account Manager",
+      "company": "Ptarmigan Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401782&CompanyId=1404643&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Eleonora Baglini",
+      "title": "Programmatic Media Manager, EMEA",
+      "company": "Lenovo",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398667&CompanyId=1388350&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 28,
+      "name": "Imogen Baker",
+      "title": "Green Chef UK General Manager",
+      "company": "HelloFresh Group",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397446&CompanyId=1403891&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 29,
+      "name": "Jason Banks",
+      "title": "Digital & Media Analytics Manager",
+      "company": "Kenvue",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397336&CompanyId=1388341&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 30,
+      "name": "Zoe Baptie",
+      "title": "Senior Account Director",
+      "company": "New Digital Age",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401648&CompanyId=1388373&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 31,
+      "name": "Maayan Bar",
+      "title": "VP of Publisher Solutions",
+      "company": "Online Media Solutions",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397487&CompanyId=1403919&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 32,
+      "name": "Ouiem Barbouchi",
+      "title": "Senior Agency Partner Manager FR, UK",
+      "company": "Vinted UAB",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397523&CompanyId=1403943&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 33,
+      "name": "Tom Barbour",
+      "title": "Sales Director, UK",
+      "company": "Vistar Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370428&CompanyId=1388467&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 34,
+      "name": "Will Barfield",
+      "title": "Head of FanReach (Programmatic Lead)",
+      "company": "Better Collective",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397307&CompanyId=1388237&from=attendee",
+      "notes": "London. FanReach: 1P/0P sports audience data + AI-driven prediction",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "better_collective_contact"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Paul Barnard",
+      "title": "CEO",
+      "company": "Skyrise",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397502&CompanyId=1403927&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 36,
+      "name": "Mayling Barr",
+      "title": "Agency Sales Director",
+      "company": "Nano Interactive",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370223&CompanyId=1388370&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 37,
+      "name": "Amy Bather",
+      "title": "Trade Marketing & Events Lead EMEA",
+      "company": "Bloomberg",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397310&CompanyId=1388242&from=attendee",
+      "notes": "Duplicate listing in source",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 38,
+      "name": "Chloe Bearman",
+      "title": "Performance Marketing Asst Manager",
+      "company": "M&S",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397471&CompanyId=1403908&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 39,
+      "name": "Laura Belchier",
+      "title": "Retail Media Director",
+      "company": "Ocado Retail",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397354&CompanyId=1405560&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 40,
+      "name": "Marc Bergers",
+      "title": "Senior Sales Director, EMEA",
+      "company": "Vistar Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400769&CompanyId=1388467&from=attendee",
+      "notes": "Amsterdam. Programmatic DOOH advocate",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 41,
+      "name": "Giulia Bernasconi",
+      "title": "Senior Account Manager",
+      "company": "Teads",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400513&CompanyId=1403932&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 42,
+      "name": "Aleksandra Beyer",
+      "title": "CMO PSYSYS / Founder, The Future Female",
+      "company": "Founder - The Future Female",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397433&CompanyId=1403883&from=attendee",
+      "notes": "Founder & CEO of The Future Female (global leadership collective)",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Luke Blackburn",
+      "title": "Head of Digital & Technology",
+      "company": "PepsiCo",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370266&CompanyId=1388392&from=attendee",
+      "notes": "Leads PepsiCo digital transformation agenda",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 44,
+      "name": "Scott Bodie",
+      "title": "Head of Media UK&I",
+      "company": "Kimberly Clark",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397338&CompanyId=1388343&from=attendee",
+      "notes": "Leads media strategy, investment, innovation UK&I",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 45,
+      "name": "Jodie Bolle",
+      "title": "PR and Events Manager",
+      "company": "Reach Plc",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399435&CompanyId=1405033&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 46,
+      "name": "Daniel Bond",
+      "title": "Senior Account Executive",
+      "company": "Human Security",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370118&CompanyId=1405806&from=attendee",
+      "notes": "London. Helps brands protect against IVT and wasted ad spend",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 47,
+      "name": "Fiona Bongiovi",
+      "title": "Paid Digital Engagement Senior Manager",
+      "company": "British Red Cross",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397412&CompanyId=1403870&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 48,
+      "name": "Edwin Bos",
+      "title": "Marketing Effectiveness Data Expert",
+      "company": "ING",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397457&CompanyId=1403897&from=attendee",
+      "notes": "Amsterdam. Owns MMM development, drives media optimisation via ROAS",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 49,
+      "name": "Rachel Bowen-Thomas",
+      "title": "Global Digital Marketing Effectiveness Lead",
+      "company": "Haleon",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397327&CompanyId=1388311&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 50,
+      "name": "Jazmine Brace",
+      "title": "Digital Marketing and Social Lead",
+      "company": "The IET",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397511&CompanyId=1403935&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 51,
+      "name": "Fay Breka",
+      "title": "Programmatic Manager",
+      "company": "Kaizen Gaming",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397380&CompanyId=1403842&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 52,
+      "name": "Maddy Brett",
+      "title": "Event Team",
+      "company": "WBR",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397804&CompanyId=1403664&from=attendee",
+      "notes": "Organiser staff",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 53,
+      "name": "Matt Brewer",
+      "title": "Programmatic Director",
+      "company": "OMD EMEA",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401793&CompanyId=1403917&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_1"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Ed Bristow",
+      "title": "VP, Business Development EMEA - Enterprise",
+      "company": "Adlook",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2369916&CompanyId=1388217&from=attendee",
+      "notes": "London. Leads new business EMEA for Adlook Smart DSP",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 55,
+      "name": "Max Bromfield",
+      "title": "Brand Partnerships Lead",
+      "company": "Quantcast",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398231&CompanyId=1388406&from=attendee",
+      "notes": "London",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 56,
+      "name": "Max Brown",
+      "title": "Commercial Director",
+      "company": "Skyrise",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397501&CompanyId=1403927&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 57,
+      "name": "Rob Brown",
+      "title": "Director, Performance Agency & Media Planning",
+      "company": "Better Collective",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397306&CompanyId=1388237&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "better_collective_contact"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Helen Bull",
+      "title": "Head of DOOH & Programmatic",
+      "company": "Hammerson",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397441&CompanyId=1403889&from=attendee",
+      "notes": "London. Leads strategic dev, commercial growth",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 59,
+      "name": "Andrew Burtenshaw",
+      "title": "Head of Programmatic",
+      "company": "Publicis One",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397910&CompanyId=1404146&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_2"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Ollie Burton",
+      "title": "Programmatic & Display Executive, Digital Marketing",
+      "company": "SuperGroup",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397367&CompanyId=1388431&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 61,
+      "name": "Paul Calver",
+      "title": "VP, Global Revenue Enablement",
+      "company": "Lotame",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397343&CompanyId=1388355&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 62,
+      "name": "Joe Campbell",
+      "title": "Account Director",
+      "company": "New Digital Age",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401646&CompanyId=1388373&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 63,
+      "name": "Becca Carles",
+      "title": "CCO Media, Content & Events",
+      "company": "New Digital Age",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397350&CompanyId=1388373&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 64,
+      "name": "Bobi Carley",
+      "title": "Director of Industry Relations & Inclusion",
+      "company": "ISBA",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370156&CompanyId=1388333&from=attendee",
+      "notes": "ISBA - relevant to Northell/Clearcast",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "trade_body_target"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Eilís Cassidy",
+      "title": "Programmatic & Data Sales Lead",
+      "company": "Channel 4",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397315&CompanyId=1388254&from=attendee",
+      "notes": "Drives C4 programmatic commercial strategy",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 66,
+      "name": "Alex Cheeseman",
+      "title": "Global Finance Industry Director",
+      "company": "Teads",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399482&CompanyId=1403932&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 67,
+      "name": "Jingyao Chen",
+      "title": "Senior Programmatic Executive",
+      "company": "Bet365",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397302&CompanyId=1388236&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 68,
+      "name": "Samantha Chen",
+      "title": "Senior Ad Operations Executive",
+      "company": "Nectar360",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397349&CompanyId=1388372&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 69,
+      "name": "Sebastian Christensen",
+      "title": "Digital Specialist",
+      "company": "Visit Denmark",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397528&CompanyId=1403945&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 70,
+      "name": "Maisie Christie",
+      "title": "Event Team",
+      "company": "WBR",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397805&CompanyId=1403664&from=attendee",
+      "notes": "Organiser staff",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 71,
+      "name": "Alberto Ciot",
+      "title": "Sales Director EMEA",
+      "company": "Quantcast",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398228&CompanyId=1388406&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 72,
+      "name": "Victorine Clement",
+      "title": "Global Manager, Digital Media",
+      "company": "Lotus Bakeries",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397469&CompanyId=1403906&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 73,
+      "name": "Ellen Clifford",
+      "title": "Senior Consumer Marketing Executive GB",
+      "company": "Tourism Ireland",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397517&CompanyId=1403939&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 74,
+      "name": "Mike Condon",
+      "title": "Marketing Planning Manager",
+      "company": "Cancer Research UK",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397314&CompanyId=1388251&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 75,
+      "name": "Julia Connaughton",
+      "title": "Director, Programmatic & DAX Outdoor Sales",
+      "company": "Global",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397438&CompanyId=1403886&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 76,
+      "name": "Lea Conti-Fabra",
+      "title": "Programmatic Strategy Manager",
+      "company": "Tripadvisor",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370398&CompanyId=1388455&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 77,
+      "name": "David Costa",
+      "title": "Global Head of Media Investment & Best Practices",
+      "company": "HP",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370113&CompanyId=1388318&from=attendee",
+      "notes": "Barcelona. Steers HP worldwide media investment strategy",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 78,
+      "name": "Fabien Couasnon",
+      "title": "VP Strategic Partnerships & Supply",
+      "company": "Displayce",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398224&CompanyId=1388276&from=attendee",
+      "notes": "London",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 79,
+      "name": "Ian Coupland",
+      "title": "Digital Operations",
+      "company": "Experian",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398851&CompanyId=1388291&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 80,
+      "name": "Ben Cowlard",
+      "title": "Global Media Manager",
+      "company": "Kimberly-Clark",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397465&CompanyId=1403903&from=attendee",
+      "notes": "Oversees global media strategy / iconic brands",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 81,
+      "name": "Beatrice Cowley",
+      "title": "Paid Media Specialist",
+      "company": "Penguin Random House UK",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401674&CompanyId=1406104&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 82,
+      "name": "Chris Cox",
+      "title": "Senior Account Manager",
+      "company": "Experian",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398850&CompanyId=1388291&from=attendee",
+      "notes": "London",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 83,
+      "name": "Lizzie Cox",
+      "title": "Global Content and Campaigns Adviser",
+      "company": "Shell",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397498&CompanyId=1403926&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 84,
+      "name": "Peter Craddock",
+      "title": "Partner",
+      "company": "Keller & Heckman",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397464&CompanyId=1403902&from=attendee",
+      "notes": "Brussels. Lawyer with software dev background",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 85,
+      "name": "Robyn Croly",
+      "title": "Programmatic Sales Account Director",
+      "company": "Alight Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2369924&CompanyId=1388220&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 86,
+      "name": "Dave Cross",
+      "title": "Senior Agency Sales Manager EMEA",
+      "company": "Lotame",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397341&CompanyId=1388355&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 87,
+      "name": "Krizia Cruz",
+      "title": "Event Team",
+      "company": "WBR",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397803&CompanyId=1403664&from=attendee",
+      "notes": "Organiser staff",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 88,
+      "name": "Marion Dacquin",
+      "title": "Senior Manager, Customer Success",
+      "company": "InfoSum Ltd",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397455&CompanyId=1403896&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 89,
+      "name": "Reese Dai",
+      "title": "Marketing Executive",
+      "company": "Ellipal",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397908&CompanyId=1404144&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 90,
+      "name": "Alexander d'Albertanson",
+      "title": "Media Sustainability Project Director",
+      "company": "Ad Net Zero",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397390&CompanyId=1403854&from=attendee",
+      "notes": "Leads industry carbon-reduction initiatives",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "trade_body_target"
+      ]
+    },
+    {
+      "id": 91,
+      "name": "James Dall",
+      "title": "Global Paid Media Manager",
+      "company": "Trustpilot",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397373&CompanyId=1388456&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 92,
+      "name": "Navaneeta Das Skinner",
+      "title": "Global Head of Digital Hubs",
+      "company": "Publicis Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399596&CompanyId=1388403&from=attendee",
+      "notes": "London",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_1"
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Luke Davies",
+      "title": "Business Development Director",
+      "company": "On Device",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398840&CompanyId=1403918&from=attendee",
+      "notes": "London. Brand Lift measurement",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 94,
+      "name": "Nial Davies",
+      "title": "Head Director Digital Marketing, Acquisition & Conversion",
+      "company": "Worldpay",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397529&CompanyId=1403946&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 95,
+      "name": "Eilidh Dawson",
+      "title": "Global Media Lead",
+      "company": "BP",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397410&CompanyId=1403868&from=attendee",
+      "notes": "London",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 96,
+      "name": "Natalie Dawson",
+      "title": "Director of Commercial",
+      "company": "LADbible Group",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397467&CompanyId=1403905&from=attendee",
+      "notes": "Leads commercial web strategy",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 97,
+      "name": "Lanzil De Souza",
+      "title": "Paid Media and Programmatic Executive",
+      "company": "Haven Holidays",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397329&CompanyId=1388313&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 98,
+      "name": "Jennifer De Vita",
+      "title": "Marketing",
+      "company": "IKEA",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399434&CompanyId=1405032&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 99,
+      "name": "Robin de Wouters",
+      "title": "Director General",
+      "company": "FEDMA",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397430&CompanyId=1403880&from=attendee",
+      "notes": "Federation of European Direct & Interactive Marketing",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "trade_body_target"
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Amaia del Olmo",
+      "title": "Industry Expert",
+      "company": "TWIPN",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397375&CompanyId=1388459&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 101,
+      "name": "Elsa Demain-Griffiths",
+      "title": "Director, Digital Sales & Innovation",
+      "company": "The Telegraph",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370380&CompanyId=1388447&from=attendee",
+      "notes": "15+ yrs programmatic/digital media",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 102,
+      "name": "Alex Denham",
+      "title": "Event Team",
+      "company": "WBR",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397796&CompanyId=1403664&from=attendee",
+      "notes": "Organiser staff",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 103,
+      "name": "César Desangles",
+      "title": "Digital Marketing Governance Manager",
+      "company": "Philip Morris International",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397361&CompanyId=1388396&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 104,
+      "name": "Martina Devoto",
+      "title": "Jr Brand Manager",
+      "company": "Henkel Ltd.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397448&CompanyId=1403892&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 105,
+      "name": "Jem Djemal",
+      "title": "Director of Global Business Development",
+      "company": "VIOOH",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397525&CompanyId=1403944&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 106,
+      "name": "Billy Docwra",
+      "title": "Programmatic Account Director - Jaguar Land Rover",
+      "company": "Hearts and Science",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397442&CompanyId=1403890&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "vertical"
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Eva Doger de Speville",
+      "title": "Event Team",
+      "company": "WBR",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397799&CompanyId=1403664&from=attendee",
+      "notes": "Organiser staff",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 108,
+      "name": "Jennifer Dolan",
+      "title": "Global Head of Media",
+      "company": "Diageo",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397316&CompanyId=1388271&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 109,
+      "name": "Alys Donnelly",
+      "title": "Head of Media Operations",
+      "company": "WPP Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398236&CompanyId=1404377&from=attendee",
+      "notes": "Orchestrates operational infra, tech, analytics",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_1"
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Chris Dooley",
+      "title": "Head of Sustainable Media",
+      "company": "JCDecaux",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397461&CompanyId=1403901&from=attendee",
+      "notes": "Leads external engagement on sustainability",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 111,
+      "name": "John Downs",
+      "title": "Programmatic Business Director",
+      "company": "The Kite Factory",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398242&CompanyId=1404383&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 112,
+      "name": "Anouck Draps",
+      "title": "Global Digital Media & Commerce Manager",
+      "company": "Lotus Bakeries",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397468&CompanyId=1403906&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 113,
+      "name": "Jacques Du Preez",
+      "title": "Head of Programmatic",
+      "company": "Starcom",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397903&CompanyId=1388429&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_2"
+      ]
+    },
+    {
+      "id": 114,
+      "name": "Kieran Duffin",
+      "title": "Event Team",
+      "company": "WBR",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397802&CompanyId=1403664&from=attendee",
+      "notes": "Organiser staff",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 115,
+      "name": "Deej Duggal",
+      "title": "Head of CRM & Performance Marketing",
+      "company": "UKTV",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397521&CompanyId=1403941&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 116,
+      "name": "Maarten Duijne",
+      "title": "Founder and CEO",
+      "company": "adpaq",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397391&CompanyId=1403855&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 117,
+      "name": "Nathan Duncan",
+      "title": "Digital Lead",
+      "company": "Publicis Group",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397492&CompanyId=1403922&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 118,
+      "name": "Stephen Edwards",
+      "title": "Head of Agency",
+      "company": "Tesco",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397369&CompanyId=1388442&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 119,
+      "name": "Phoebe Ellis",
+      "title": "Director, Business Development - Enterprise",
+      "company": "Adlook",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397287&CompanyId=1388217&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 120,
+      "name": "Melanie Enzenhofer",
+      "title": "Performance Marketing Manager",
+      "company": "Smarter Ecommerce GmbH",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400622&CompanyId=1405608&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 121,
+      "name": "Tom Erdem",
+      "title": "Senior Digital Trader",
+      "company": "Nectar360",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401790&CompanyId=1388372&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 122,
+      "name": "Jem Erguvenler",
+      "title": "Client Success Manager",
+      "company": "Adzymic",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397394&CompanyId=1403857&from=attendee",
+      "notes": "Singapore",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 123,
+      "name": "Philippa Evans",
+      "title": "Head of Programmatic Operations",
+      "company": "JCDecaux",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397463&CompanyId=1403901&from=attendee",
+      "notes": "OOH ops",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 124,
+      "name": "Alex Evered",
+      "title": "Group Head of Insight",
+      "company": "Hammerson",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401792&CompanyId=1403889&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 125,
+      "name": "Manna Faldo",
+      "title": "Global Paid Media Manager",
+      "company": "Trustpilot",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397374&CompanyId=1388456&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 126,
+      "name": "Gaetano Faleo",
+      "title": "VP Strategic Partnerships",
+      "company": "Adlook",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397286&CompanyId=1388217&from=attendee",
+      "notes": "Milan. EMEA key clients & agencies",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 127,
+      "name": "Amy Fallon",
+      "title": "Programmatic Lead",
+      "company": "Vodafone",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397385&CompanyId=1403851&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 128,
+      "name": "Emily Fan",
+      "title": "Product Marketing Lead",
+      "company": "TikTok",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397515&CompanyId=1403938&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 129,
+      "name": "Alysha Fernandez",
+      "title": "Event Team",
+      "company": "WBR",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397797&CompanyId=1403664&from=attendee",
+      "notes": "Organiser staff",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 130,
+      "name": "Craig Fessey",
+      "title": "Head of Digital",
+      "company": "EDF",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400837&CompanyId=1405697&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 131,
+      "name": "Jared Field",
+      "title": "Head of Growth & Performance",
+      "company": "Rapha Cycling Club",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399716&CompanyId=1405179&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 132,
+      "name": "Lucy Figiel",
+      "title": "Senior Account Director",
+      "company": "New Digital Age",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401647&CompanyId=1388373&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 133,
+      "name": "Lennard Fihl",
+      "title": "Head of Media Products",
+      "company": "Dentsu Group Inc.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397425&CompanyId=1403876&from=attendee",
+      "notes": "Copenhagen",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_2"
+      ]
+    },
+    {
+      "id": 134,
+      "name": "Alistair Fisher",
+      "title": "Senior Ad Operations Executive",
+      "company": "Nectar360",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397348&CompanyId=1388372&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 135,
+      "name": "Casey Fitzsimmons",
+      "title": "Global Business Lead",
+      "company": "PHD",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400768&CompanyId=1388395&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 136,
+      "name": "James Fleetham",
+      "title": "Director of Advertising",
+      "company": "The Guardian",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397510&CompanyId=1403934&from=attendee",
+      "notes": "20 yrs in sales, 10 at Guardian",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 137,
+      "name": "Neva Florian",
+      "title": "Sales Development Representative",
+      "company": "Moloco",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397482&CompanyId=1403915&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 138,
+      "name": "Paul Floyer",
+      "title": "Digital Commercial Director",
+      "company": "Nectar360",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370226&CompanyId=1388372&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 139,
+      "name": "Hanna Fomchanka",
+      "title": "Senior Digital Media Manager",
+      "company": "Reckitt",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400518&CompanyId=1388411&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 140,
+      "name": "Digby Fordham",
+      "title": "Sales Director",
+      "company": "Adform",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397284&CompanyId=1388216&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 141,
+      "name": "Alessandra Foti",
+      "title": "Senior Account Manager",
+      "company": "Teads",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400512&CompanyId=1403932&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 142,
+      "name": "Elizabeth Foxton",
+      "title": "Client Partner, Beauty",
+      "company": "TikTok",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398233&CompanyId=1403938&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 143,
+      "name": "Ronan Francis",
+      "title": "Consumer Marketing Manager GB",
+      "company": "Tourism Ireland",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397519&CompanyId=1403939&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 144,
+      "name": "Alex Gabarron",
+      "title": "Global Lead Digital Marketing Manager",
+      "company": "Suntory Global Spirits",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397506&CompanyId=1403930&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 145,
+      "name": "Jorge Eduardo Galeano Chica",
+      "title": "COO",
+      "company": "Mediatica",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397909&CompanyId=1404145&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 146,
+      "name": "David Gammie",
+      "title": "Director",
+      "company": "Beer52/Wine52",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397408&CompanyId=1403867&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 147,
+      "name": "Lucy Gausden",
+      "title": "Digital Programmatic Lead",
+      "company": "Arla Foods",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397296&CompanyId=1388226&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 148,
+      "name": "Sandy Ghuman",
+      "title": "Senior Product Manager, Customer Data",
+      "company": "EasyJet",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397428&CompanyId=1403878&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 149,
+      "name": "Zuzanna Gierlinksa",
+      "title": "Account Manager",
+      "company": "New Digital Age",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401649&CompanyId=1388373&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 150,
+      "name": "Leonardo Giordano",
+      "title": "Ad Operations Manager",
+      "company": "Tripadvisor",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397371&CompanyId=1388455&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 151,
+      "name": "Emma Glenn",
+      "title": "Head of Programmatic",
+      "company": "Zenith International",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397532&CompanyId=1403949&from=attendee",
+      "notes": "Leads agency programmatic strategy",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_2"
+      ]
+    },
+    {
+      "id": 152,
+      "name": "Veronica Golawski",
+      "title": "Paid Media Manager",
+      "company": "lululemon",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397470&CompanyId=1403907&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 153,
+      "name": "Hubert Góras",
+      "title": "Business Project Manager",
+      "company": "PrimeAudience",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370285&CompanyId=1388400&from=attendee",
+      "notes": "Barcelona. Global custom audience provider",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 154,
+      "name": "Jen Gosnell",
+      "title": "Marketing Manager",
+      "company": "Adrian Flux Insurance Services",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397393&CompanyId=1403856&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 155,
+      "name": "Joshua Gottlieb",
+      "title": "Biddable Lead",
+      "company": "Mars Pet Nutrition",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397475&CompanyId=1403911&from=attendee",
+      "notes": "Oversees Mars Pet Nutrition Europe biddable",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 156,
+      "name": "Elina Goudira",
+      "title": "Commercial & Retail Media Manager",
+      "company": "Currys PLC",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397420&CompanyId=1403874&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 157,
+      "name": "Nick Graham",
+      "title": "Global Audience Activation Lead",
+      "company": "Responsible Marketing Advisory",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399744&CompanyId=1388413&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 158,
+      "name": "Owen Griffiths",
+      "title": "Commercial Director",
+      "company": "The Sun (News UK)",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370230&CompanyId=1403850&from=attendee",
+      "notes": "MD commercial agenda, strategic growth",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 159,
+      "name": "Martin Guilloret",
+      "title": "Digital Performance Marketing Lead",
+      "company": "Cancer Research UK",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397313&CompanyId=1388251&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 160,
+      "name": "Prateek Gupta",
+      "title": "MD, E-commerce & Retail Media",
+      "company": "Omnicom Media (OMC)",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370254&CompanyId=1403845&from=attendee",
+      "notes": "Heads Commerce/Retail media consultancy UK",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_2"
+      ]
+    },
+    {
+      "id": 161,
+      "name": "Mark Gurney",
+      "title": "Global Marketing and Branded Comms Lead",
+      "company": "Shell",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397499&CompanyId=1403926&from=attendee",
+      "notes": "London",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 162,
+      "name": "Nigel Gwilliam",
+      "title": "Director of Media Affairs",
+      "company": "IPA",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397459&CompanyId=1403899&from=attendee",
+      "notes": "Trade body - relevant to Northell/Clearcast",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "trade_body_target"
+      ]
+    },
+    {
+      "id": 163,
+      "name": "Gwladys Hall",
+      "title": "Global Head of Media",
+      "company": "GwladysHall (consultant)",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401032&CompanyId=1405826&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 164,
+      "name": "Mark Halliday",
+      "title": "Director of Programmatic UK",
+      "company": "JCDecaux",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397462&CompanyId=1403901&from=attendee",
+      "notes": "Leads programmatic strategy/growth",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 165,
+      "name": "Matt Hamill",
+      "title": "Head of Sales UK",
+      "company": "Displayce",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397321&CompanyId=1388276&from=attendee",
+      "notes": "London",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 166,
+      "name": "Patrick Hann",
+      "title": "AdTech Manager",
+      "company": "IAB UK",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370126&CompanyId=1388321&from=attendee",
+      "notes": "Trade body - decade in ad tech",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "trade_body_target"
+      ]
+    },
+    {
+      "id": 167,
+      "name": "Laura Hannagan",
+      "title": "Partner - Integrated Display",
+      "company": "Dentsu",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397747&CompanyId=1403875&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 168,
+      "name": "Norah Hannel",
+      "title": "Senior Director, Customer Success",
+      "company": "InfoSum Ltd",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397456&CompanyId=1403896&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 169,
+      "name": "Harry Harcus",
+      "title": "MD, Growth Solutions",
+      "company": "Dentsu",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398232&CompanyId=1403875&from=attendee",
+      "notes": "London. 20+ yrs digital media/tech",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_1"
+      ]
+    },
+    {
+      "id": 170,
+      "name": "Dan Harden",
+      "title": "SVP AI Solutions",
+      "company": "Northell",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399595&CompanyId=1405115&from=attendee",
+      "notes": "NORTHELL COLLEAGUE. London. Content supply chain trust layers, AI content governance",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 171,
+      "name": "Izzy Hardie",
+      "title": "Sales Manager",
+      "company": "Quantcast",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398229&CompanyId=1388406&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 172,
+      "name": "Alison Harding",
+      "title": "VP Data Solutions EMEA",
+      "company": "Lotame",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397340&CompanyId=1388355&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 173,
+      "name": "Craig Harman",
+      "title": "Director of Product and Operations",
+      "company": "Better Collective",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397303&CompanyId=1388237&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "better_collective_contact"
+      ]
+    },
+    {
+      "id": 174,
+      "name": "Jessica Harman",
+      "title": "Senior Media Manager",
+      "company": "Perrigo",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397489&CompanyId=1403920&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 175,
+      "name": "Ollie Harrison",
+      "title": "Senior Display & Programmatic Executive, Digital Marketing",
+      "company": "SuperGroup",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397368&CompanyId=1388431&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 176,
+      "name": "Lee Hatch",
+      "title": "ESO Media Lead",
+      "company": "Ford",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397749&CompanyId=1404068&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 177,
+      "name": "Matt Hatrick",
+      "title": "Business Director",
+      "company": "EXTE",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401041&CompanyId=1405666&from=attendee",
+      "notes": "London. Works with Publicis agencies on contextual AI",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 178,
+      "name": "Jim Haysom",
+      "title": "Enterprise Sales Director",
+      "company": "Epsilon",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397323&CompanyId=1388282&from=attendee",
+      "notes": "25+ yrs ecommerce/digital ad clarity",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 179,
+      "name": "Amy Hemsley",
+      "title": "Event Team",
+      "company": "WBR",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397798&CompanyId=1403664&from=attendee",
+      "notes": "Organiser staff",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 180,
+      "name": "Nick Hendry",
+      "title": "Programmatic Director",
+      "company": "WPP Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397530&CompanyId=1404377&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_2"
+      ]
+    },
+    {
+      "id": 181,
+      "name": "Karen Hernandez",
+      "title": "Programmatic Director",
+      "company": "WPP Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397531&CompanyId=1403948&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_2"
+      ]
+    },
+    {
+      "id": 182,
+      "name": "Alistair Hill",
+      "title": "CEO & Co-Founder",
+      "company": "On Device",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398839&CompanyId=1403918&from=attendee",
+      "notes": "20 yrs media research. Prior M:Metrics ($50m sale)",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 183,
+      "name": "James Hill",
+      "title": "Chief Commercial Officer",
+      "company": "EXTE",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401040&CompanyId=1405666&from=attendee",
+      "notes": "London",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 184,
+      "name": "René Hißerich",
+      "title": "Senior Director Media, Content & Digital Marketing, Pet Nutrition Europe",
+      "company": "Mars",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397344&CompanyId=1388360&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 185,
+      "name": "Harn Ho",
+      "title": "Data & eCom Lead",
+      "company": "Colgate-Palmolive",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2369980&CompanyId=1388256&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 186,
+      "name": "Danny Holmes",
+      "title": "Consulting Partner, Media & Agency",
+      "company": "Experian",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370049&CompanyId=1388291&from=attendee",
+      "notes": "Data strategy/digital transformation",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 187,
+      "name": "Lawrence Horne",
+      "title": "MD Commercial, Demand",
+      "company": "pubX AI",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398240&CompanyId=1404381&from=attendee",
+      "notes": "London",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 188,
+      "name": "Andy Hosie",
+      "title": "Head of Strategy",
+      "company": "Northell",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399594&CompanyId=1405115&from=attendee",
+      "notes": "ANDY (you). Driving MediaMagic Verify rollout with Clearcast",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 189,
+      "name": "Miriam Huaccho",
+      "title": "Programmatic Lead",
+      "company": "TMWI",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397750&CompanyId=1404069&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 190,
+      "name": "Elma Hui",
+      "title": "Digital Marketing Manager",
+      "company": "HSBC",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397332&CompanyId=1388319&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 191,
+      "name": "Jacob Hume",
+      "title": "Agency Sales Manager EMEA",
+      "company": "Lotame",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397342&CompanyId=1388355&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 192,
+      "name": "Clare Hutchings",
+      "title": "Media Operations",
+      "company": "Reckitt",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400775&CompanyId=1388411&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 193,
+      "name": "Felix Huyer",
+      "title": "Group Head Programmatic Sales",
+      "company": "Media Frankfurt GmbH",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397476&CompanyId=1403912&from=attendee",
+      "notes": "Frankfurt",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 194,
+      "name": "Alexandra Illiashova",
+      "title": "Head of Integrated Brand Communications, Benelux",
+      "company": "Danone",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2369993&CompanyId=1388263&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 195,
+      "name": "Duncan Illing",
+      "title": "Senior Account Manager",
+      "company": "Experian",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370050&CompanyId=1388291&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 196,
+      "name": "Jessica Ince",
+      "title": "Performance Marketing Manager",
+      "company": "Co-op",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397416&CompanyId=1403933&from=attendee",
+      "notes": "Leads data-driven paid media",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 197,
+      "name": "Sorin Iriciuc",
+      "title": "Senior Digital Media Analytics & BI Manager",
+      "company": "Kenvue",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370175&CompanyId=1388341&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 198,
+      "name": "Geordie Irwin",
+      "title": "International Media Agencies Manager",
+      "company": "MFE Advertising",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397477&CompanyId=1403913&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 199,
+      "name": "Albana Istrefi",
+      "title": "Commercial Manager - Programmatic Pioneers Summit",
+      "company": "WBR",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397795&CompanyId=1403664&from=attendee",
+      "notes": "London. CONFIRMS conference = Programmatic Pioneers Summit",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 200,
+      "name": "Thomas Ives",
+      "title": "Co-Founder",
+      "company": "RAAS LAB",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398241&CompanyId=1403951&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 201,
+      "name": "Matt Jacobs",
+      "title": "Head of Programmatic",
+      "company": "SuperGroup",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397366&CompanyId=1388431&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 202,
+      "name": "Krane Jeffery",
+      "title": "VP Commercial",
+      "company": "RAAS LAB",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400835&CompanyId=1403951&from=attendee",
+      "notes": "UK",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 203,
+      "name": "Kush Jeta",
+      "title": "Global Director, Media Operations",
+      "company": "Omnicom Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400644&CompanyId=1405624&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 204,
+      "name": "Kasper Johan Hammarqvist Ulmanen",
+      "title": "Programmatic Associate",
+      "company": "Arla Foods",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397295&CompanyId=1388226&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 205,
+      "name": "Josh Jolliffe",
+      "title": "Senior Sales Director",
+      "company": "Genius Sports",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399756&CompanyId=1388306&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 206,
+      "name": "Jessica Jones",
+      "title": "Retail Media Product Manager",
+      "company": "Co-op",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397417&CompanyId=1403872&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 207,
+      "name": "Ned Jones",
+      "title": "Head of Advertiser Customer Success",
+      "company": "Permutive",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370271&CompanyId=1388394&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 208,
+      "name": "Lisa Kalyuzhny",
+      "title": "VP of Sales EMEA",
+      "company": "Nexxen",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398422&CompanyId=1388376&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 209,
+      "name": "Dom Karamanska",
+      "title": "Senior Global Paid Media Manager",
+      "company": "Trustpilot",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397372&CompanyId=1388456&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 210,
+      "name": "Gilbert Kassab",
+      "title": "Head of Global Media",
+      "company": "Philip Morris International",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397363&CompanyId=1388396&from=attendee",
+      "notes": "Directs strategy/investment for paid media",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 211,
+      "name": "Chris Keogh",
+      "title": "Business Development Director UK",
+      "company": "Adlook",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2369919&CompanyId=1388217&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 212,
+      "name": "Anushka Khambete",
+      "title": "Marketing Analyst",
+      "company": "American Express",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397288&CompanyId=1388223&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 213,
+      "name": "Asad Khan",
+      "title": "Head of InHouse Media and Affiliates",
+      "company": "VodafoneThree",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397386&CompanyId=1404472&from=attendee",
+      "notes": "~20 yrs media agencies / consulting / in-house",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 214,
+      "name": "Ekaterina (Katya) Kharitonova",
+      "title": "Global Media Procurement Lead",
+      "company": "Bayer",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397407&CompanyId=1403866&from=attendee",
+      "notes": "20 yrs across agency + client",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 215,
+      "name": "Bhuwan Khatri",
+      "title": "Programmatic Account Executive",
+      "company": "Dentsu",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401791&CompanyId=1403875&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 216,
+      "name": "Shaafi Khokhar",
+      "title": "Global Operations Director, Media",
+      "company": "Haleon",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397328&CompanyId=1388311&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 217,
+      "name": "Tara Kilcoyne",
+      "title": "Managing Partner, Total Addressable Product Enablement",
+      "company": "Dentsu",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397423&CompanyId=1403875&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_1"
+      ]
+    },
+    {
+      "id": 218,
+      "name": "Peter Kim",
+      "title": "Head of Product Marketing",
+      "company": "TikTok",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401643&CompanyId=1403938&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 219,
+      "name": "Tae Kim",
+      "title": "Senior Programmatic Lead",
+      "company": "Digitas UK",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399487&CompanyId=1405057&from=attendee",
+      "notes": "London",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 220,
+      "name": "Tara King",
+      "title": "Senior Paid Media Specialist",
+      "company": "Penguin Random House UK",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401675&CompanyId=1406104&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 221,
+      "name": "Zdeněk Kittler",
+      "title": "Adobe Platform Specialist",
+      "company": "Aviva",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397746&CompanyId=1403863&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 222,
+      "name": "Darja Koenig",
+      "title": "Programmatic Account Director",
+      "company": "Mars team (Publicis)",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399488&CompanyId=1405058&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "vertical"
+      ]
+    },
+    {
+      "id": 223,
+      "name": "Stefan Kozel",
+      "title": "Sales Director",
+      "company": "Nexxen",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397351&CompanyId=1388376&from=attendee",
+      "notes": "London. End-to-end DSP/SSP/DMP",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 224,
+      "name": "Barbara Krah",
+      "title": "Digital Media Trading Director",
+      "company": "Nectar 360",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401788&CompanyId=1388371&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 225,
+      "name": "Minna Kruhse",
+      "title": "Digital Sales Team Lead",
+      "company": "Sanoma Media Finland",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397497&CompanyId=1403925&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 226,
+      "name": "Sunil Kumar",
+      "title": "Senior Ad Tech Specialist",
+      "company": "Tripadvisor",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370399&CompanyId=1388455&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 227,
+      "name": "Linus Kümpel",
+      "title": "Programmatic Business Manager",
+      "company": "Media Impact GmbH",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397382&CompanyId=1403843&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 228,
+      "name": "Orsi Kutrucz",
+      "title": "Programmatic Executive",
+      "company": "BV-Group",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397415&CompanyId=1403871&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 229,
+      "name": "Emma Lacey",
+      "title": "SVP Sales Demand EMEA",
+      "company": "Onetag",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397356&CompanyId=1388386&from=attendee",
+      "notes": "20+ yrs commercial leadership",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 230,
+      "name": "Chloe Lambert",
+      "title": "Head of Commercial Sales & Partnerships",
+      "company": "Association for Online Publishing",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397399&CompanyId=1403860&from=attendee",
+      "notes": "UK",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 231,
+      "name": "Ellie Lane",
+      "title": "Head of Client Strategy UK",
+      "company": "Quantcast",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370298&CompanyId=1388406&from=attendee",
+      "notes": "14+ yrs; Mindshare, Maxus background",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 232,
+      "name": "Emily Latham",
+      "title": "Digital Capability Lead",
+      "company": "Aviva",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397404&CompanyId=1403863&from=attendee",
+      "notes": "1P data/MarTech maturation",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 233,
+      "name": "Jennifer Law",
+      "title": "Senior Digital Marketing Manager",
+      "company": "The IET",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397512&CompanyId=1403935&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 234,
+      "name": "Amy Lawrence",
+      "title": "Deputy Managing Director",
+      "company": "GingerMay",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399750&CompanyId=1388307&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 235,
+      "name": "Jane Lee",
+      "title": "Head of Outdoor Business Development",
+      "company": "Global",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397437&CompanyId=1403886&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 236,
+      "name": "Hannah Lees",
+      "title": "Technical Account Manager",
+      "company": "The Guardian",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397905&CompanyId=1403934&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 237,
+      "name": "Mikael Lenneryd",
+      "title": "Chief Marketing Officer",
+      "company": "Apoteket",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2369933&CompanyId=1388225&from=attendee",
+      "notes": "Mathematician/cognitive scientist background",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 238,
+      "name": "Jerry Leonard",
+      "title": "Director",
+      "company": "Clearcast",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399593&CompanyId=1405114&from=attendee",
+      "notes": "CLEARCAST PARTNER. London",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 239,
+      "name": "Alan Li",
+      "title": "Client Delivery Manager",
+      "company": "Experian",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398849&CompanyId=1388291&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 240,
+      "name": "Ruslan Lisovskij",
+      "title": "Agency Client Partner UK & EU",
+      "company": "Vinted",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397377&CompanyId=1388465&from=attendee",
+      "notes": "UK",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 241,
+      "name": "Andrew Lloyd",
+      "title": "Global Client Lead",
+      "company": "Publicis Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398690&CompanyId=1388403&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 242,
+      "name": "Zoe Lloyd",
+      "title": "Business Director",
+      "company": "Craft London",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397418&CompanyId=1403873&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 243,
+      "name": "Ferdy Looijen",
+      "title": "Media Manager Benelux",
+      "company": "American Express",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397290&CompanyId=1388223&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 244,
+      "name": "Oscar Lopez Cuesta",
+      "title": "Co-Founder",
+      "company": "Data Clean Room Alliance",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2369947&CompanyId=1403837&from=attendee",
+      "notes": "Also Digital Marketing Lead at BBVA",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 245,
+      "name": "Peter Louca",
+      "title": "Head of Performance Marketing",
+      "company": "Fidelity",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397431&CompanyId=1403881&from=attendee",
+      "notes": "Paid Media + Head of Personalisation",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 246,
+      "name": "James Lovelace",
+      "title": "VP of Sales",
+      "company": "Revving",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401769&CompanyId=1406134&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 247,
+      "name": "Lucia Lucero Moledo",
+      "title": "Senior Ad Operations Manager",
+      "company": "Online Media Solutions",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397486&CompanyId=1403919&from=attendee",
+      "notes": "Buenos Aires",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 248,
+      "name": "Karen Luff",
+      "title": "Paid Media Manager",
+      "company": "Marks and Spencer PLC",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397474&CompanyId=1403910&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 249,
+      "name": "Graeme Lynch",
+      "title": "Commercial Advisor",
+      "company": "pubX",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398235&CompanyId=1403950&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 250,
+      "name": "Trish Lynch",
+      "title": "Event Chairperson (Host)",
+      "company": "Event Chairperson",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370144&CompanyId=1403839&from=attendee",
+      "notes": "Host of the summit",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 251,
+      "name": "Emma Magliocchi",
+      "title": "Cluster Head of Media UK, Nordics, North, Ireland",
+      "company": "Nestlé",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397483&CompanyId=1403916&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 252,
+      "name": "Tala Mahdieh",
+      "title": "Sales Director",
+      "company": "Permutive",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397358&CompanyId=1388394&from=attendee",
+      "notes": "High Wycombe. 1P publisher data programmatic",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 253,
+      "name": "Olimpia Mainka",
+      "title": "Global Performance Director",
+      "company": "Ptarmigan Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398668&CompanyId=1404643&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 254,
+      "name": "Laure Malergue",
+      "title": "CEO",
+      "company": "Displayce",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398225&CompanyId=1388276&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 255,
+      "name": "Elena Managadze",
+      "title": "Global Media Operations Manager",
+      "company": "Diageo",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400627&CompanyId=1388271&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 256,
+      "name": "Niwaz Mann",
+      "title": "Digital Acquisition Customer Experience Manager",
+      "company": "American Express",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397292&CompanyId=1388223&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 257,
+      "name": "Jacqueline Manning",
+      "title": "Event Team",
+      "company": "WBR",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397808&CompanyId=1403664&from=attendee",
+      "notes": "Organiser staff",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 258,
+      "name": "Christina Marshall",
+      "title": "Head of Media, UK",
+      "company": "Mattel",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397345&CompanyId=1388361&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 259,
+      "name": "Becky Martin",
+      "title": "Group Head",
+      "company": "Blis",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397309&CompanyId=1388241&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 260,
+      "name": "Stephen Mater-May",
+      "title": "North Europe Media Lead",
+      "company": "Perrigo",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397490&CompanyId=1403920&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 261,
+      "name": "Samraj Matharu",
+      "title": "Global Media Ops Lead",
+      "company": "Diageo",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397319&CompanyId=1388271&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 262,
+      "name": "Marta Matzeu",
+      "title": "Senior Paid Media Specialist",
+      "company": "Penguin Random House UK",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401794&CompanyId=1406104&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 263,
+      "name": "Christian McAlinden",
+      "title": "Programmatic Director",
+      "company": "Dentsu",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397422&CompanyId=1403875&from=attendee",
+      "notes": "Leading figure in programmatic",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_2"
+      ]
+    },
+    {
+      "id": 264,
+      "name": "Olivia McCullagh",
+      "title": "Retail Media Lead",
+      "company": "IAB UK",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397745&CompanyId=1388321&from=attendee",
+      "notes": "Trade body",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "trade_body_target"
+      ]
+    },
+    {
+      "id": 265,
+      "name": "Paul McGee",
+      "title": "Head of Video Planning",
+      "company": "Goodstuff Communications",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397439&CompanyId=1403887&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 266,
+      "name": "Grace McKenna",
+      "title": "Performance Marketer",
+      "company": "iChoosr",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397454&CompanyId=1403895&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 267,
+      "name": "Ruairi McNally",
+      "title": "Global Digital Director",
+      "company": "PHD",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400795&CompanyId=1388395&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 268,
+      "name": "Shardarne Meghie",
+      "title": "Media Experience Partner",
+      "company": "PHD",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397360&CompanyId=1388395&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 269,
+      "name": "Dmytro Melinyshyn",
+      "title": "Manager, Social Strategy Deployment",
+      "company": "Philip Morris International",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397362&CompanyId=1388396&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 270,
+      "name": "Hannah Melling",
+      "title": "Senior Programmatic Manager",
+      "company": "Found",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399585&CompanyId=1405108&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 271,
+      "name": "Paul Mellor",
+      "title": "Programmatic Director",
+      "company": "Hearts & Science",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397330&CompanyId=1388314&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_2"
+      ]
+    },
+    {
+      "id": 272,
+      "name": "Rahul Menon",
+      "title": "Head of Paid Media",
+      "company": "HSBC UK",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397451&CompanyId=1403894&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 273,
+      "name": "Natasa Meri",
+      "title": "Programmatic Manager",
+      "company": "Kaizen Gaming",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397381&CompanyId=1403842&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 274,
+      "name": "Arif Mian",
+      "title": "Marketing Manager",
+      "company": "Lloyds Banking Group",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370190&CompanyId=1388353&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 275,
+      "name": "Simon Michaelides",
+      "title": "Director General",
+      "company": "ISBA",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397333&CompanyId=1388333&from=attendee",
+      "notes": "ISBA DG - KEY for Northell/CapClear GTM",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "trade_body_target"
+      ]
+    },
+    {
+      "id": 276,
+      "name": "Marlo Mightly",
+      "title": "Technical Account Manager",
+      "company": "The Guardian",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397906&CompanyId=1403934&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 277,
+      "name": "Frederica Migliardia",
+      "title": "Digital Partnerships Manager",
+      "company": "Nectar360",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401789&CompanyId=1388372&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 278,
+      "name": "Thomas Miles",
+      "title": "Strategic Media Planner",
+      "company": "Arla Foods",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397299&CompanyId=1388226&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 279,
+      "name": "Alex Mills",
+      "title": "Head of Client Partnerships",
+      "company": "Quantcast",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370297&CompanyId=1388406&from=attendee",
+      "notes": "EMEA brand partnerships",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 280,
+      "name": "Rosi Milne",
+      "title": "Head of International Media Agencies",
+      "company": "MFE Advertising",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397480&CompanyId=1403913&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 281,
+      "name": "Andra Mitetelu",
+      "title": "Director, Business Development - Enterprise",
+      "company": "Adlook",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397285&CompanyId=1388217&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 282,
+      "name": "Sohel Modi",
+      "title": "Media Operations Technology Lead",
+      "company": "Diageo",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397320&CompanyId=1388271&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 283,
+      "name": "Fatima Mohamed",
+      "title": "Account Manager",
+      "company": "New Digital Age",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401644&CompanyId=1388373&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 284,
+      "name": "Andrew Mole",
+      "title": "CEO",
+      "company": "pubX",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398234&CompanyId=1403950&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 285,
+      "name": "Marta Molteni",
+      "title": "International Media Agencies Sales Director",
+      "company": "MFE Advertising",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397479&CompanyId=1403913&from=attendee",
+      "notes": "London. BVOD/CTV/ATV/Audio/DOOH",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 286,
+      "name": "Sean Monighan",
+      "title": "Brand Marketing Controller",
+      "company": "Itsu Grocery",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397460&CompanyId=1403900&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 287,
+      "name": "Joanne Monk",
+      "title": "Corporate Partnerships Manager",
+      "company": "RNID",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397494&CompanyId=1403924&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 288,
+      "name": "Nicholas Moon",
+      "title": "Senior Digital Audience Manager",
+      "company": "The LEGO Group",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370185&CompanyId=1403849&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 289,
+      "name": "Danni Morsman",
+      "title": "Senior Marketing Strategy and Planning Manager",
+      "company": "Cancer Research UK",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397312&CompanyId=1388251&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 290,
+      "name": "Eva Morvai",
+      "title": "Programmatic Manager",
+      "company": "BV-Group",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397414&CompanyId=1403871&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 291,
+      "name": "Manuela Mossa",
+      "title": "Digital Operations Manager",
+      "company": "Rail Delivery Group",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397383&CompanyId=1403846&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 292,
+      "name": "Mazen Mroueh",
+      "title": "Global Head of Performance Marketing",
+      "company": "Publicis Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397364&CompanyId=1388403&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_1"
+      ]
+    },
+    {
+      "id": 293,
+      "name": "Michael Murray",
+      "title": "Head of Programmatic",
+      "company": "OMD EMEA",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397484&CompanyId=1403917&from=attendee",
+      "notes": "Leads programmatic for EMEA",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_1"
+      ]
+    },
+    {
+      "id": 294,
+      "name": "Maria Nadal",
+      "title": "Customer Success Manager",
+      "company": "Displayce",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398226&CompanyId=1388276&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 295,
+      "name": "Tarek Nammour",
+      "title": "Digital Media Specialist",
+      "company": "Just Eat",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370166&CompanyId=1403841&from=attendee",
+      "notes": "Programmatic brand marketing",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 296,
+      "name": "Sheila Nazir",
+      "title": "Senior Digital Operations Manager",
+      "company": "Rail Delivery Group",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370308&CompanyId=1403846&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 297,
+      "name": "Mara Negri",
+      "title": "SVP Global Media Agencies",
+      "company": "MFE Advertising",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397478&CompanyId=1403913&from=attendee",
+      "notes": "London. 20+ yrs EU digital ad ecosystem",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 298,
+      "name": "Jack Neil",
+      "title": "Programmatic Lead",
+      "company": "Blis",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400833&CompanyId=1388241&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 299,
+      "name": "Alan Ngai",
+      "title": "Senior Product Manager",
+      "company": "Bauer Media Outdoor",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397406&CompanyId=1403865&from=attendee",
+      "notes": "London",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 300,
+      "name": "Kalin Nikolov",
+      "title": "CEO",
+      "company": "Forty Media OOD",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398237&CompanyId=1404378&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 301,
+      "name": "Mark Nilski",
+      "title": "Senior Manager Retail Media",
+      "company": "Currys PLC",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397421&CompanyId=1403874&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 302,
+      "name": "Carla Nora",
+      "title": "Advertising and Growth Lead",
+      "company": "Sunweb Group",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397507&CompanyId=1403931&from=attendee",
+      "notes": "Rotterdam",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 303,
+      "name": "Sunny Notay",
+      "title": "Senior Sales Director EMEA",
+      "company": "Amobee",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398423&CompanyId=1405144&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 304,
+      "name": "Carlos Nunez",
+      "title": "MDR",
+      "company": "Vendelux",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400836&CompanyId=1404384&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 305,
+      "name": "Katie O'Brien",
+      "title": "Marketing Coordinator GB",
+      "company": "Tourism Ireland",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397518&CompanyId=1403939&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 306,
+      "name": "Andy Oakes",
+      "title": "Chief Executive Officer",
+      "company": "New Digital Age",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370227&CompanyId=1388373&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 307,
+      "name": "Lydia Oakes",
+      "title": "Co-Founder and COO",
+      "company": "New Digital Age",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401781&CompanyId=1388373&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 308,
+      "name": "Toby Olins",
+      "title": "Senior Business Development Specialist",
+      "company": "Online Media Solutions",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397488&CompanyId=1403919&from=attendee",
+      "notes": "Israel",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 309,
+      "name": "Michael Oliver",
+      "title": "Head of Programmatic",
+      "company": "Telegraph Media Group",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370371&CompanyId=1388440&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 310,
+      "name": "Ben O'Mahoney",
+      "title": "AdTech, Data Partnerships and Retail Media Lead",
+      "company": "Ocado Ads",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397352&CompanyId=1405559&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 311,
+      "name": "Matt O'Neill",
+      "title": "European Growth Lead",
+      "company": "Medal.tv",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398238&CompanyId=1404379&from=attendee",
+      "notes": "London",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 312,
+      "name": "Momoka Onuma",
+      "title": "Account Lead",
+      "company": "Dentsu Japan",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397427&CompanyId=1403877&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 313,
+      "name": "Diana Ortiz",
+      "title": "Digital Trading Lead",
+      "company": "Reckitt",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397365&CompanyId=1388411&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 314,
+      "name": "Peter Østerballe",
+      "title": "Digital Media Specialist",
+      "company": "Arla Foods",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397297&CompanyId=1388226&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 315,
+      "name": "Richard O'Sullivan",
+      "title": "VP, Head of Revenue EMEA (InMobi + Glance)",
+      "company": "InMobi",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397458&CompanyId=1403898&from=attendee",
+      "notes": "UK",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 316,
+      "name": "Stan Oyovota",
+      "title": "Digital Media & Shopper Analytics Manager",
+      "company": "Co-op",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397509&CompanyId=1403933&from=attendee",
+      "notes": "Co-op Media leadership",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 317,
+      "name": "Sahin Ozkul",
+      "title": "Digital Media Manager",
+      "company": "Reckitt",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370311&CompanyId=1388411&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 318,
+      "name": "Jack Palmer",
+      "title": "Programmatic Director",
+      "company": "Publicis Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370453&CompanyId=1388403&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 319,
+      "name": "Meenka Pandita",
+      "title": "Senior Digital Marketing Executive",
+      "company": "Avanti West Coast",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397300&CompanyId=1388230&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 320,
+      "name": "Elli Papadaki",
+      "title": "SVP Global Supply Sales",
+      "company": "Onetag",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370257&CompanyId=1388386&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 321,
+      "name": "Lydia Parr",
+      "title": "Media Planning & Activation Manager",
+      "company": "Kenvue",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397337&CompanyId=1388341&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 322,
+      "name": "Priyanka Patel",
+      "title": "Marketing Manager",
+      "company": "Quantcast",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370303&CompanyId=1388406&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 323,
+      "name": "Hannah Payne",
+      "title": "Account Director",
+      "company": "Zoom Media UK",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398672&CompanyId=1404646&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 324,
+      "name": "Justin Pearse",
+      "title": "Editor-in-Chief",
+      "company": "New Digital Age",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370228&CompanyId=1388373&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 325,
+      "name": "Serena Pearson",
+      "title": "Digital Acquisition Lead",
+      "company": "NatWest",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2369992&CompanyId=1403844&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 326,
+      "name": "Guillaume Perie",
+      "title": "Programmatic Lead",
+      "company": "The Sun",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397384&CompanyId=1403850&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 327,
+      "name": "John Perry",
+      "title": "Director, Programmatic Partnerships",
+      "company": "People Inc.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401795&CompanyId=1406145&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 328,
+      "name": "Rosie Phillips",
+      "title": "Sales Director, Programmatic",
+      "company": "Permutive",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370272&CompanyId=1388394&from=attendee",
+      "notes": "London",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 329,
+      "name": "Robert Phythian",
+      "title": "Digital Marketing Lead",
+      "company": "Channel 4",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2369978&CompanyId=1388254&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 330,
+      "name": "Miruna Popa",
+      "title": "Performance Marketing Manager",
+      "company": "Marks & Spencer",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397473&CompanyId=1403909&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 331,
+      "name": "Alex Prouhet",
+      "title": "Director, Offsite Media and Trading",
+      "company": "Nectar360",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370323&CompanyId=1388372&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 332,
+      "name": "Efthymios Psaraftis",
+      "title": "Senior Manager, AdTech & Capability",
+      "company": "Kenvue",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370171&CompanyId=1388341&from=attendee",
+      "notes": "London. Brand strategy/media planning",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 333,
+      "name": "Daniel Puddicombe",
+      "title": "Sales Manager, UK",
+      "company": "Vistar Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370426&CompanyId=1388467&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 334,
+      "name": "Olivia Rainford",
+      "title": "Global Head of Commercial",
+      "company": "Encore Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397429&CompanyId=1403879&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 335,
+      "name": "Tom Rainsford",
+      "title": "Co-Founder / Marketing Director",
+      "company": "Giffgaff / Beavertown Brewery",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397435&CompanyId=1403885&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 336,
+      "name": "Jayesh Rajdev",
+      "title": "Former Head of Advanced Advertising, ITV",
+      "company": "ITV",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397334&CompanyId=1388334&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 337,
+      "name": "Hasan Ramadan",
+      "title": "Head of Digital Advertising",
+      "company": "Euronews",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397324&CompanyId=1388288&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 338,
+      "name": "Kirstin Randall",
+      "title": "Head of 3rd Parties Growth",
+      "company": "Telegraph Media Group",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370370&CompanyId=1388440&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 339,
+      "name": "Tom Ratchliffe",
+      "title": "Programmatic Account Director",
+      "company": "Mars team (Publicis)",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399489&CompanyId=1405058&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "vertical"
+      ]
+    },
+    {
+      "id": 340,
+      "name": "Joanne Raven",
+      "title": "Digital Marketing UK, Sr Associate",
+      "company": "Mattel",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397346&CompanyId=1388361&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 341,
+      "name": "Camilla Ray",
+      "title": "Planning Director",
+      "company": "Nectar360",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370225&CompanyId=1388372&from=attendee",
+      "notes": "London. 24-person team, 1P data + retail media",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 342,
+      "name": "Lewis Read",
+      "title": "Sales Lead, UK",
+      "company": "Vistar Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370427&CompanyId=1388467&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 343,
+      "name": "Richard Reeves",
+      "title": "Managing Director",
+      "company": "Association of Online Publishing (AOP)",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397400&CompanyId=1403861&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 344,
+      "name": "Georgia Reierson",
+      "title": "Partnerships Director",
+      "company": "New Digital Age",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401645&CompanyId=1388373&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 345,
+      "name": "Ellie Reynolds",
+      "title": "Assistant Digital Acquisition Manager",
+      "company": "M&S",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397472&CompanyId=1403908&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 346,
+      "name": "Nisha Ridout",
+      "title": "Marketing Director",
+      "company": "Quantcast",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370301&CompanyId=1388406&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 347,
+      "name": "Harrison Rigg",
+      "title": "Event Team",
+      "company": "WBR",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400700&CompanyId=1403664&from=attendee",
+      "notes": "Organiser staff",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 348,
+      "name": "Emily Roberts",
+      "title": "Head of Digital",
+      "company": "Responsible Marketing Advisory",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370315&CompanyId=1388413&from=attendee",
+      "notes": "Decade+ experience",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 349,
+      "name": "Natasha Robinson",
+      "title": "Policy Advisor, Insight and Policy Team",
+      "company": "RNID",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397495&CompanyId=1403924&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 350,
+      "name": "Sarah Robson",
+      "title": "Global Head of Advertising Effectiveness",
+      "company": "On Device",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398841&CompanyId=1403918&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 351,
+      "name": "Bruno Rončević",
+      "title": "Senior Ad Operations Manager",
+      "company": "Sofascore",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397503&CompanyId=1403928&from=attendee",
+      "notes": "Sports-tech platform",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 352,
+      "name": "Adam Rowley",
+      "title": "Senior Sales Executive",
+      "company": "Human Security",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400984&CompanyId=1405806&from=attendee",
+      "notes": "London. IVT/bot detection",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 353,
+      "name": "Sam Russell",
+      "title": "Global Head of Media Operations",
+      "company": "Diageo",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397318&CompanyId=1388271&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 354,
+      "name": "Jay Safdar",
+      "title": "Performance Engine Lead, Consumer Marketing",
+      "company": "Lloyds Banking Group",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397339&CompanyId=1388353&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 355,
+      "name": "Miia Salmi",
+      "title": "Senior Programmatic Manager",
+      "company": "Sanoma Media Finland",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397496&CompanyId=1403925&from=attendee",
+      "notes": "Finland. 14 yrs digital/programmatic",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 356,
+      "name": "Rochelle Samuel",
+      "title": "Event Team",
+      "company": "WBR",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397807&CompanyId=1403664&from=attendee",
+      "notes": "Organiser staff",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 357,
+      "name": "Stephanie Scheller",
+      "title": "Managing Partner, Sustainable Solutions",
+      "company": "OMG",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397355&CompanyId=1388385&from=attendee",
+      "notes": "Co-founder OMG Sustainable Solutions",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 358,
+      "name": "Daniel Schenkermaier",
+      "title": "Head of Media Strategy & Services",
+      "company": "Smarter Ecommerce GmbH",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400623&CompanyId=1405608&from=attendee",
+      "notes": "Vienna",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 359,
+      "name": "Ingo Schwab",
+      "title": "Head of Media Digitization",
+      "company": "Deutsche Telekom",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370004&CompanyId=1388269&from=attendee",
+      "notes": "Banking apprenticeship, philosophy/linguistics grad",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 360,
+      "name": "Reanne Scott",
+      "title": "Display & Video Lead",
+      "company": "Allwyn",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397397&CompanyId=1403858&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 361,
+      "name": "Zac Selby",
+      "title": "SVP Global Solutions, Data & Technology",
+      "company": "Dentsu",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397424&CompanyId=1403875&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_1"
+      ]
+    },
+    {
+      "id": 362,
+      "name": "Samir Shah",
+      "title": "Managing Partner, Data, Technology & Programmatic",
+      "company": "Zenith",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397379&CompanyId=1388480&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_1"
+      ]
+    },
+    {
+      "id": 363,
+      "name": "Dan Sharp",
+      "title": "Product & Operations Director, DAX",
+      "company": "Global",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397436&CompanyId=1403886&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 364,
+      "name": "Anne-Marie Sheedy",
+      "title": "Director of Events Production",
+      "company": "New Digital Age",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401798&CompanyId=1388373&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 365,
+      "name": "Alex Sherr",
+      "title": "Principal Partner",
+      "company": "Arena Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397398&CompanyId=1403859&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_2"
+      ]
+    },
+    {
+      "id": 366,
+      "name": "Nathan Shingleton",
+      "title": "Paid Social and Programmatic Manager",
+      "company": "Hilton",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397331&CompanyId=1388317&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 367,
+      "name": "Stoyan Shopov",
+      "title": "CEO",
+      "company": "Forty Media LLC",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398425&CompanyId=1404473&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 368,
+      "name": "Michael Singh",
+      "title": "Performance Marketing Manager",
+      "company": "Symprove",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370359&CompanyId=1388433&from=attendee",
+      "notes": "Leads new customer acquisition",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 369,
+      "name": "Hata Siu",
+      "title": "Senior Marketing Analyst",
+      "company": "American Express",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397291&CompanyId=1388223&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 370,
+      "name": "Ellie Slater",
+      "title": "Event Manager",
+      "company": "WBR",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2396890&CompanyId=1403664&from=attendee",
+      "notes": "Organiser senior",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 371,
+      "name": "Isobel Slater",
+      "title": "Global Digital Marketing Manager",
+      "company": "Vodafone",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397387&CompanyId=1403851&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 372,
+      "name": "Brendan-James Smith",
+      "title": "Audience Activation Lead",
+      "company": "Aviva",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397403&CompanyId=1403863&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 373,
+      "name": "Megan Smith",
+      "title": "Event Team",
+      "company": "WBR",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397806&CompanyId=1403664&from=attendee",
+      "notes": "Organiser staff",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 374,
+      "name": "Nicholas Smith",
+      "title": "Holidays Director esky Group (inc Thomas Cook)",
+      "company": "Thomas Cook Group / eSky",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397514&CompanyId=1403937&from=attendee",
+      "notes": "Wokingham. Heads Holidays division",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 375,
+      "name": "Susan-Marie Smith",
+      "title": "Programmatic Lead",
+      "company": "EDF UK",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397748&CompanyId=1404067&from=attendee",
+      "notes": "Hove",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 376,
+      "name": "Geri Soni",
+      "title": "Programmatic Lead",
+      "company": "PHD EMEA",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401796&CompanyId=1406146&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 377,
+      "name": "George Stamnas",
+      "title": "Global Programmatic Manager",
+      "company": "The LEGO Group",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370184&CompanyId=1403849&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 378,
+      "name": "Gina Stansfield",
+      "title": "Performance Marketer",
+      "company": "iChoosr",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397453&CompanyId=1403895&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 379,
+      "name": "Presiyan Stefanov",
+      "title": "Head of Delivery, Paid Media",
+      "company": "Better Collective",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397305&CompanyId=1388237&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "better_collective_contact"
+      ]
+    },
+    {
+      "id": 380,
+      "name": "Kathryn Stephens",
+      "title": "Programmatic EMEA",
+      "company": "Hill's Pet Food",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397450&CompanyId=1403893&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 381,
+      "name": "Pinelopi Stoforopoulou",
+      "title": "Senior Media Lead",
+      "company": "Nestlé UK Ltd",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397434&CompanyId=1403884&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 382,
+      "name": "Becky Stormer",
+      "title": "Head of Clients and Operations",
+      "company": "OmniGOV / MG OMD",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397481&CompanyId=1404730&from=attendee",
+      "notes": "Leads high-value client relationships",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 383,
+      "name": "Samuel Stuart",
+      "title": "Channel Marketing Manager, Display and Programmatic",
+      "company": "HSBC UK",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397452&CompanyId=1403894&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 384,
+      "name": "Lenka Svihurova",
+      "title": "Head of Paid Social and Programmatic",
+      "company": "Haven Holidays",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370101&CompanyId=1388313&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 385,
+      "name": "Nick Swimer",
+      "title": "Partner",
+      "company": "Lee & Thompson LLP",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370181&CompanyId=1388346&from=attendee",
+      "notes": "Law firm",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 386,
+      "name": "Mark Syal",
+      "title": "Chief Product Officer",
+      "company": "Medialab Group",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398239&CompanyId=1404380&from=attendee",
+      "notes": "30 yrs industry; ex-Essence MD then CPO",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 387,
+      "name": "Suso Taghi",
+      "title": "International Business Development Manager",
+      "company": "VIOOH",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397526&CompanyId=1403944&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 388,
+      "name": "Daniel Tapia",
+      "title": "Senior Marketing Strategy Lead, Brand & Growth",
+      "company": "HelloFresh Group",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397445&CompanyId=1403891&from=attendee",
+      "notes": "London. Decade+ brand culture / entertainment/tech",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 389,
+      "name": "Dora Tari",
+      "title": "Digital Performance Manager",
+      "company": "Rapha",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399715&CompanyId=1405178&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 390,
+      "name": "Miren Taskia",
+      "title": "Marketing Manager",
+      "company": "Taskia",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370366&CompanyId=1403848&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 391,
+      "name": "Sophie Tatner",
+      "title": "Planning Business Director",
+      "company": "Starcom",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401650&CompanyId=1388429&from=attendee",
+      "notes": "Leads Aldi comms planning",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "vertical"
+      ]
+    },
+    {
+      "id": 392,
+      "name": "Charmaine Tavassoly",
+      "title": "Industry Expert",
+      "company": "TWIPN",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370393&CompanyId=1388459&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 393,
+      "name": "James Taylor",
+      "title": "Co-founder & CMO",
+      "company": "Beer52/Wine52",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397409&CompanyId=1403867&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 394,
+      "name": "Natasha Taylor",
+      "title": "Programmatic Sales Manager",
+      "company": "Blis",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2369957&CompanyId=1388241&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 395,
+      "name": "Matthew Tenby",
+      "title": "Senior Campaign Specialist",
+      "company": "Better Collective",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397304&CompanyId=1388237&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "better_collective_contact"
+      ]
+    },
+    {
+      "id": 396,
+      "name": "Travis Teo",
+      "title": "Co-founder and Executive Director",
+      "company": "Adzymic",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397395&CompanyId=1403857&from=attendee",
+      "notes": "Singapore",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 397,
+      "name": "Teodora Tepavicharova",
+      "title": "Head of Programmatic Sales",
+      "company": "The Telegraph",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2369986&CompanyId=1388447&from=attendee",
+      "notes": "Also Condé Nast Programmatic UK + W Europe",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 398,
+      "name": "Delphine Terrioux",
+      "title": "Data Strategy Partner",
+      "company": "PHD",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397359&CompanyId=1388395&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 399,
+      "name": "Rolf Thomke",
+      "title": "Head of Digital Distribution Europe",
+      "company": "Singapore Airlines",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370340&CompanyId=1388425&from=attendee",
+      "notes": "Frankfurt. Built SQ digital marketing/eCom 2017-23",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 400,
+      "name": "Duane Thompson",
+      "title": "Head of Digital Optimisation",
+      "company": "The Guardian",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400621&CompanyId=1403934&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 401,
+      "name": "John Thomson",
+      "title": "Managing Director UK",
+      "company": "Quantcast",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370299&CompanyId=1388406&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 402,
+      "name": "Dan Thomson-Rourke",
+      "title": "Performance Marketing Asst Manager",
+      "company": "M&S",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398666&CompanyId=1403908&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 403,
+      "name": "Andrea Tinteri",
+      "title": "Head of Programmatic",
+      "company": "Brilling Media Ltd",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397411&CompanyId=1403869&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 404,
+      "name": "Jonny Tiplady",
+      "title": "Programmatic Specialist",
+      "company": "Vodafone",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370429&CompanyId=1403851&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 405,
+      "name": "Daniel Tobin",
+      "title": "Chief Growth Officer",
+      "company": "Dentsu Japan",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397426&CompanyId=1403877&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_2"
+      ]
+    },
+    {
+      "id": 406,
+      "name": "Irina Tokareva",
+      "title": "Head of Global Display & Programmatic Media",
+      "company": "Radisson Hotel Group",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397493&CompanyId=1403923&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 407,
+      "name": "Josh Tomlinson",
+      "title": "Digital Lead",
+      "company": "Zalando",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397378&CompanyId=1388479&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 408,
+      "name": "Josh Torok",
+      "title": "Strategic Agency and Partnerships Manager",
+      "company": "Experian",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370051&CompanyId=1388291&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 409,
+      "name": "Sophie Toth",
+      "title": "Co-Founder",
+      "company": "The Women in Programmatic Network",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397370&CompanyId=1388451&from=attendee",
+      "notes": "Programmatic/AdTech strategy & transformation",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 410,
+      "name": "Issy Towell",
+      "title": "Ads Proposition Lead",
+      "company": "Ocado Retail",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397353&CompanyId=1405560&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 411,
+      "name": "Betty Underwood",
+      "title": "Marketing Director",
+      "company": "RAAS LAB",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400834&CompanyId=1403951&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 412,
+      "name": "James Urquhart",
+      "title": "Senior Director, Sales",
+      "company": "Adform",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2369912&CompanyId=1388216&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 413,
+      "name": "Victoria Usher",
+      "title": "CEO & Founder",
+      "company": "GingerMay",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370088&CompanyId=1388307&from=attendee",
+      "notes": "PR/comms agency",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 414,
+      "name": "Marvin Vacquier Droop",
+      "title": "Founder and CPO",
+      "company": "adpaq",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397392&CompanyId=1403855&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 415,
+      "name": "Kamile Valaityte",
+      "title": "Event Team",
+      "company": "WBR",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397801&CompanyId=1403664&from=attendee",
+      "notes": "Organiser staff",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 416,
+      "name": "Chris Vernon",
+      "title": "Business Development Director, Brand",
+      "company": "The Trade Desk",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370382&CompanyId=1388448&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 417,
+      "name": "Vishes Vijay",
+      "title": "Global Media Procurement Senior Manager",
+      "company": "Haleon",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370097&CompanyId=1388311&from=attendee",
+      "notes": "Leads global media procurement",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 418,
+      "name": "Deniz Vural",
+      "title": "Channel Lead, Programmatic",
+      "company": "PHD Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397491&CompanyId=1403921&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 419,
+      "name": "Lucy Wallace",
+      "title": "Head of Programmatic",
+      "company": "Zenith Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397904&CompanyId=1388481&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "tier_2"
+      ]
+    },
+    {
+      "id": 420,
+      "name": "Peter Wallace",
+      "title": "General Manager EMEA & JAPAC",
+      "company": "GumGum",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397440&CompanyId=1403888&from=attendee",
+      "notes": "15+ yrs digital media",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 421,
+      "name": "Helen Walters",
+      "title": "Programmatic Accounts Director",
+      "company": "Hearts and Science",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397443&CompanyId=1403890&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target"
+      ]
+    },
+    {
+      "id": 422,
+      "name": "Lois Wandless",
+      "title": "Manager, Paid Digital EMEA",
+      "company": "Warner Music Group",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397907&CompanyId=1404070&from=attendee",
+      "notes": "London",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 423,
+      "name": "Zac Wang",
+      "title": "Senior Content Editor, Global",
+      "company": "The Current",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370377&CompanyId=1388445&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 424,
+      "name": "Jo Westwood",
+      "title": "Global Digital Comms and Activation Manager",
+      "company": "(ex-)Shell",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397388&CompanyId=1403852&from=attendee",
+      "notes": "UK",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 425,
+      "name": "Spencer White",
+      "title": "Head of Programmatic",
+      "company": "Bauer Media",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397405&CompanyId=1403864&from=attendee",
+      "notes": "Leads programmatic strategy/ops",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 426,
+      "name": "Jonny Whitehead",
+      "title": "Strategy Director",
+      "company": "Skyrise",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397500&CompanyId=1403927&from=attendee",
+      "notes": "Privacy-first data/tech",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 427,
+      "name": "Seb WhiteSteele",
+      "title": "Senior Programmatic Marketing Manager",
+      "company": "The LEGO Group",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370183&CompanyId=1403849&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 428,
+      "name": "Alexander Wieghard",
+      "title": "Director Programmatic Business",
+      "company": "Media Impact GmbH",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370208&CompanyId=1403843&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 429,
+      "name": "Lindsay Wiles",
+      "title": "Head of Programmatic",
+      "company": "Dexerto",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398864&CompanyId=1404740&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 430,
+      "name": "Matthew Wilké",
+      "title": "Head of Programmatic & Digital Partnerships",
+      "company": "Mediaplus UK",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370211&CompanyId=1388364&from=attendee",
+      "notes": "Media Leader Future 100 Class of 2025",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "indie_lead"
+      ]
+    },
+    {
+      "id": 431,
+      "name": "Hannah Willson",
+      "title": "Digital Media & Technology Strategist",
+      "company": "Specsavers",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397504&CompanyId=1403929&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 432,
+      "name": "Gavin Wilson",
+      "title": "Global Chief Commercial Officer",
+      "company": "VIOOH",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397524&CompanyId=1403944&from=attendee",
+      "notes": "Manages DSP/SSP partner ecosystem",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 433,
+      "name": "Joel Wilson",
+      "title": "Programmatic Agency Sales Manager",
+      "company": "Zoom Media UK",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398673&CompanyId=1404646&from=attendee",
+      "notes": "London",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 434,
+      "name": "Ruby Windsor",
+      "title": "Digital Media Manager",
+      "company": "Specsavers",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397505&CompanyId=1403929&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 435,
+      "name": "Julia Wiśniewska",
+      "title": "Account Manager",
+      "company": "RTB House Services",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370286&CompanyId=1403847&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 436,
+      "name": "Kayla Wonderly",
+      "title": "Performance Director",
+      "company": "Teads",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397508&CompanyId=1403932&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 437,
+      "name": "Esme Wood",
+      "title": "Head of Programmatic",
+      "company": "the7stars",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397513&CompanyId=1403936&from=attendee",
+      "notes": "UK's largest independent media agency",
+      "met": false,
+      "follow_up": "",
+      "tags": [
+        "agency_target",
+        "indie_lead"
+      ]
+    },
+    {
+      "id": 438,
+      "name": "Alex Wright",
+      "title": "Global Insights Director",
+      "company": "Blis",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397308&CompanyId=1388241&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 439,
+      "name": "Alexander Wright",
+      "title": "Programmatic Lead",
+      "company": "The Sun",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370229&CompanyId=1403850&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 440,
+      "name": "Alexandra Wright",
+      "title": "Programmatic & Data Leader",
+      "company": "Channel 4",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2369975&CompanyId=1388254&from=attendee",
+      "notes": "Oversees C4 data-driven advertising",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 441,
+      "name": "Eleanor Wright",
+      "title": "Senior Planning Executive",
+      "company": "Bet365",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397301&CompanyId=1388236&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 442,
+      "name": "Jess Wrightson",
+      "title": "Senior Brand Partnerships Lead",
+      "company": "Quantcast",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398230&CompanyId=1388406&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 443,
+      "name": "Cindy X Xiao",
+      "title": "Paid Search Senior Manager",
+      "company": "American Express",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397289&CompanyId=1388223&from=attendee",
+      "notes": "London",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 444,
+      "name": "Yunyin Xuan",
+      "title": "Manager, Acquisition CX",
+      "company": "American Express",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397294&CompanyId=1388223&from=attendee",
+      "notes": "London",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 445,
+      "name": "Kyle Yin",
+      "title": "Product Lead",
+      "company": "TikTok",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397516&CompanyId=1403938&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 446,
+      "name": "Berk Yunus",
+      "title": "Beauty & Wellbeing EU Performance Marketing & Content Lead",
+      "company": "Unilever",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397376&CompanyId=1388460&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 447,
+      "name": "Katya Zapolnova",
+      "title": "Head of Media EMEA",
+      "company": "Mattel",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370207&CompanyId=1388361&from=attendee",
+      "notes": "Shapes Mattel digital media + audience insights",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 448,
+      "name": "Arbnor Zariqi",
+      "title": "Digital Media Operations Manager",
+      "company": "ABW L.L.C",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397389&CompanyId=1403853&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 449,
+      "name": "Art Zeidman",
+      "title": "Head of Agency & Programmatic",
+      "company": "Permutive",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397357&CompanyId=1388394&from=attendee",
+      "notes": "NY. 25+ yrs broadcast/digital",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 450,
+      "name": "Evelina Zemziulina",
+      "title": "Event Team",
+      "company": "WBR",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397800&CompanyId=1403664&from=attendee",
+      "notes": "Organiser staff",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    },
+    {
+      "id": 451,
+      "name": "Sabrina Ziying",
+      "title": "Trade Marketing Specialist",
+      "company": "Henkel Ltd.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397449&CompanyId=1403892&from=attendee",
+      "notes": "",
+      "met": false,
+      "follow_up": "",
+      "tags": []
+    }
+  ],
+  "trade_body_targets": [
+    {
+      "name": "Simon Michaelides",
+      "title": "Director General",
+      "org": "ISBA",
+      "org_meaning": "Incorporated Society of British Advertisers (UK brand-side trade body, Clearcast customer base)",
+      "priority": "DECISION - HIGHEST",
+      "open_angle": "Northell + Clearcast JV. Cost-out + risk-out framing for ISBA members. Only 8 months in role - receptive.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397333&CompanyId=1388333&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Bobi Carley",
+      "title": "Director of Industry Relations & Inclusion",
+      "org": "ISBA",
+      "org_meaning": "Incorporated Society of British Advertisers",
+      "priority": "WORKING - HIGHEST",
+      "open_angle": "Working-level door to Michaelides. Converts 'interesting' into a DG meeting.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370156&CompanyId=1388333&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Nigel Gwilliam",
+      "title": "Director of Media Affairs",
+      "org": "IPA",
+      "org_meaning": "Institute of Practitioners in Advertising (UK agencies trade body)",
+      "priority": "DECISION - HIGH",
+      "open_angle": "Agency margin recovery on creative clearance turnaround. Workflow + risk-reduction, not Clearcast extension.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397459&CompanyId=1403899&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Patrick Hann",
+      "title": "Ad Tech Manager",
+      "org": "IAB UK",
+      "org_meaning": "Interactive Advertising Bureau UK (digital + programmatic standards, owns Gold Standard)",
+      "priority": "WORKING - HIGH",
+      "open_angle": "'Where does AI clearance fit in the Gold Standard / trust framework?' Position as extension, not competitor.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370126&CompanyId=1388321&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Olivia McCullagh",
+      "title": "Retail Media Lead",
+      "org": "IAB UK",
+      "org_meaning": "Interactive Advertising Bureau UK",
+      "priority": "HIGH MOMENTUM",
+      "open_angle": "Retail media is fastest-growing UK channel and a clearance black box. CapClear as the layer that fixes it before regulator scrutiny lands.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397745&CompanyId=1388321&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Robin de Wouters",
+      "title": "Director General",
+      "org": "FEDMA",
+      "org_meaning": "Federation of European Data & Marketing (EU direct/data marketing trade body)",
+      "priority": "PHASE 2",
+      "open_angle": "Park for EU expansion. Useful to mark on radar today. Also EDAA Vice-Chair.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397430&CompanyId=1403880&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Alexander d'Albertanson",
+      "title": "Media Sustainability Project Director",
+      "org": "Ad Net Zero",
+      "org_meaning": "Industry sustainability initiative, took over GARM's sustainable media work",
+      "priority": "SUSTAINABILITY",
+      "open_angle": "Co-develop methodology for measuring carbon saved by AI clearance vs legacy. Turns CapClear into sustainability story.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397390&CompanyId=1403854&from=attendee",
+      "met": false,
+      "follow_up": ""
+    }
+  ],
+  "agency_targets": [
+    {
+      "name": "Harry Harcus",
+      "title": "MD, Growth Solutions",
+      "agency": "Dentsu",
+      "holdco": "Dentsu",
+      "tier": "TIER 1",
+      "lens": "20+ yrs digital media/tech. London. Right entry point for partnership-narrative conversation.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398232&CompanyId=1403875&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Tara Kilcoyne",
+      "title": "Managing Partner, Total Addressable Product Enablement",
+      "agency": "Dentsu",
+      "holdco": "Dentsu",
+      "tier": "TIER 1",
+      "lens": "'Total Addressable' = CapClear territory. Product enablement = embedding channel.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397423&CompanyId=1403875&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Zac Selby",
+      "title": "SVP Global Solutions, Data & Technology",
+      "agency": "Dentsu",
+      "holdco": "Dentsu",
+      "tier": "TIER 1",
+      "lens": "Global remit. Cross-market case.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397424&CompanyId=1403875&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Christian McAlinden",
+      "title": "Programmatic Director",
+      "agency": "Dentsu",
+      "holdco": "Dentsu",
+      "tier": "TIER 2",
+      "lens": "Leading figure in programmatic. Practitioner credibility multiplier.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397422&CompanyId=1403875&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Lennard Fihl",
+      "title": "Head of Media Products",
+      "agency": "Dentsu Group Inc.",
+      "holdco": "Dentsu",
+      "tier": "TIER 2",
+      "lens": "Copenhagen. Nordics / EU expansion route.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397425&CompanyId=1403876&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Daniel Tobin",
+      "title": "Chief Growth Officer",
+      "agency": "Dentsu Japan",
+      "holdco": "Dentsu",
+      "tier": "TIER 2",
+      "lens": "Long-shot. Japan / APAC story for later.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397426&CompanyId=1403877&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Laura Hannagan",
+      "title": "Partner - Integrated Display",
+      "agency": "Dentsu",
+      "holdco": "Dentsu",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397747&CompanyId=1403875&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Bhuwan Khatri",
+      "title": "Programmatic Account Executive",
+      "agency": "Dentsu",
+      "holdco": "Dentsu",
+      "tier": "",
+      "lens": "Working-level.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401791&CompanyId=1403875&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Momoka Onuma",
+      "title": "Account Lead",
+      "agency": "Dentsu Japan",
+      "holdco": "Dentsu",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397427&CompanyId=1403877&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Samir Shah",
+      "title": "MP Data, Technology & Programmatic",
+      "agency": "Zenith",
+      "holdco": "Publicis",
+      "tier": "TIER 1",
+      "lens": "Senior decision authority on programmatic ad-tech at Zenith.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397379&CompanyId=1388480&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Mazen Mroueh",
+      "title": "Global Head of Performance Marketing",
+      "agency": "Publicis Media",
+      "holdco": "Publicis",
+      "tier": "TIER 1",
+      "lens": "Global remit. Performance-marketing framing = easiest CapClear sell.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397364&CompanyId=1388403&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Navaneeta Das Skinner",
+      "title": "Global Head of Digital Hubs",
+      "agency": "Publicis Media",
+      "holdco": "Publicis",
+      "tier": "TIER 1",
+      "lens": "Digital Hubs = delivery centres. Operational nerve points.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399596&CompanyId=1388403&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Emma Glenn",
+      "title": "Head of Programmatic",
+      "agency": "Zenith International",
+      "holdco": "Publicis",
+      "tier": "TIER 2",
+      "lens": "International rollout role.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397532&CompanyId=1403949&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Lucy Wallace",
+      "title": "Head of Programmatic",
+      "agency": "Zenith Media",
+      "holdco": "Publicis",
+      "tier": "TIER 2",
+      "lens": "UK lead.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397904&CompanyId=1388481&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Jacques Du Preez",
+      "title": "Head of Programmatic",
+      "agency": "Starcom",
+      "holdco": "Publicis",
+      "tier": "TIER 2",
+      "lens": "Publicis biddable powerhouse.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397903&CompanyId=1388429&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Andrew Burtenshaw",
+      "title": "Head of Programmatic",
+      "agency": "Publicis One",
+      "holdco": "Publicis",
+      "tier": "TIER 2",
+      "lens": "Cross-Publicis bridging role.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397910&CompanyId=1404146&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Sophie Tatner",
+      "title": "Planning Business Director",
+      "agency": "Starcom",
+      "holdco": "Publicis",
+      "tier": "VERTICAL",
+      "lens": "Leads Aldi planning. FMCG vertical hit.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401650&CompanyId=1388429&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Andrew Lloyd",
+      "title": "Global Client Lead",
+      "agency": "Publicis Media",
+      "holdco": "Publicis",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398690&CompanyId=1388403&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Jack Palmer",
+      "title": "Programmatic Director",
+      "agency": "Publicis Media",
+      "holdco": "Publicis",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370453&CompanyId=1388403&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Tae Kim",
+      "title": "Senior Programmatic Lead",
+      "agency": "Digitas UK",
+      "holdco": "Publicis",
+      "tier": "",
+      "lens": "Working-level.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399487&CompanyId=1405057&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Carmen Au",
+      "title": "Programmatic Manager",
+      "agency": "Digitas UK",
+      "holdco": "Publicis",
+      "tier": "",
+      "lens": "Working-level.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399486&CompanyId=1405057&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Nathan Duncan",
+      "title": "Digital Lead",
+      "agency": "Publicis Group",
+      "holdco": "Publicis",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397492&CompanyId=1403922&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Darja Koenig",
+      "title": "Programmatic Account Director",
+      "agency": "Mars team (Publicis)",
+      "holdco": "Publicis",
+      "tier": "VERTICAL",
+      "lens": "Mars client lens.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399488&CompanyId=1405058&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Tom Ratchliffe",
+      "title": "Programmatic Account Director",
+      "agency": "Mars team (Publicis)",
+      "holdco": "Publicis",
+      "tier": "VERTICAL",
+      "lens": "Mars client lens.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399489&CompanyId=1405058&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Matt Brewer",
+      "title": "Programmatic Director",
+      "agency": "OMD EMEA",
+      "holdco": "Omnicom",
+      "tier": "TIER 1",
+      "lens": "EMEA scope at biggest media network.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401793&CompanyId=1403917&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Michael Murray",
+      "title": "Head of Programmatic",
+      "agency": "OMD EMEA",
+      "holdco": "Omnicom",
+      "tier": "TIER 1",
+      "lens": "Brief both Brewer + Murray - separate scope.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397484&CompanyId=1403917&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Simon Atkins",
+      "title": "Head of Programmatic",
+      "agency": "Hearts and Science",
+      "holdco": "Omnicom",
+      "tier": "TIER 1",
+      "lens": "Omnicom's data-led shop. Natural CapClear home.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397444&CompanyId=1403890&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Ina Arens",
+      "title": "Senior Director Biddable",
+      "agency": "Omnicom Media",
+      "holdco": "Omnicom",
+      "tier": "TIER 1",
+      "lens": "Biddable owns dynamic creative + programmatic delivery. Direct CapClear use case.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401651&CompanyId=1405624&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Paul Mellor",
+      "title": "Programmatic Director",
+      "agency": "Hearts & Science",
+      "holdco": "Omnicom",
+      "tier": "TIER 2",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397330&CompanyId=1388314&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Billy Docwra",
+      "title": "Programmatic AD - Jaguar Land Rover",
+      "agency": "Hearts and Science",
+      "holdco": "Omnicom",
+      "tier": "VERTICAL",
+      "lens": "Auto vertical conversation.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397442&CompanyId=1403890&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Helen Walters",
+      "title": "Programmatic Accounts Director",
+      "agency": "Hearts and Science",
+      "holdco": "Omnicom",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397443&CompanyId=1403890&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Mohamed Al-Kaf",
+      "title": "Digital Planning Associate Director",
+      "agency": "OMD UK",
+      "holdco": "Omnicom",
+      "tier": "",
+      "lens": "UK working-level.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400506&CompanyId=1388384&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Prateek Gupta",
+      "title": "MD, E-commerce & Retail Media",
+      "agency": "Omnicom Media (OMC)",
+      "holdco": "Omnicom",
+      "tier": "TIER 2",
+      "lens": "Bridges agency Cascade and retail-media Cascade.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370254&CompanyId=1403845&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Kush Jeta",
+      "title": "Global Director, Media Operations",
+      "agency": "Omnicom Media",
+      "holdco": "Omnicom",
+      "tier": "",
+      "lens": "Right person to scope embedding CapClear.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400644&CompanyId=1405624&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Becky Stormer",
+      "title": "Head of Clients and Operations",
+      "agency": "OmniGOV / MG OMD",
+      "holdco": "Omnicom",
+      "tier": "",
+      "lens": "UK government client lens.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397481&CompanyId=1404730&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Stephanie Scheller",
+      "title": "MP Sustainable Solutions",
+      "agency": "OMG",
+      "holdco": "Omnicom",
+      "tier": "",
+      "lens": "Sustainability lens. Cross-pollinate with Ad Net Zero.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397355&CompanyId=1388385&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Paul McGee",
+      "title": "Head of Video Planning",
+      "agency": "Goodstuff Communications",
+      "holdco": "Omnicom",
+      "tier": "",
+      "lens": "Video creative = high clearance volume.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397439&CompanyId=1403887&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Casey Fitzsimmons",
+      "title": "Global Business Lead",
+      "agency": "PHD",
+      "holdco": "Omnicom",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400768&CompanyId=1388395&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Ruairi McNally",
+      "title": "Global Digital Director",
+      "agency": "PHD",
+      "holdco": "Omnicom",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2400795&CompanyId=1388395&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Shardarne Meghie",
+      "title": "Media Experience Partner",
+      "agency": "PHD",
+      "holdco": "Omnicom",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397360&CompanyId=1388395&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Delphine Terrioux",
+      "title": "Data Strategy Partner",
+      "agency": "PHD",
+      "holdco": "Omnicom",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397359&CompanyId=1388395&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Geri Soni",
+      "title": "Programmatic Lead",
+      "agency": "PHD EMEA",
+      "holdco": "Omnicom",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401796&CompanyId=1406146&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Deniz Vural",
+      "title": "Channel Lead, Programmatic",
+      "agency": "PHD Media",
+      "holdco": "Omnicom",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397491&CompanyId=1403921&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Alys Donnelly",
+      "title": "Head of Media Operations",
+      "agency": "WPP Media",
+      "holdco": "WPP",
+      "tier": "TIER 1",
+      "lens": "Operations head. Right person if CapClear embeds at WPP.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398236&CompanyId=1404377&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Nick Hendry",
+      "title": "Programmatic Director",
+      "agency": "WPP Media",
+      "holdco": "WPP",
+      "tier": "TIER 2",
+      "lens": "UK programmatic lead.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397530&CompanyId=1404377&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Karen Hernandez",
+      "title": "Programmatic Director",
+      "agency": "WPP Media",
+      "holdco": "WPP",
+      "tier": "TIER 2",
+      "lens": "Second WPP Media programmatic director.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397531&CompanyId=1403948&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "David Ayre",
+      "title": "Head of Programmatic Europe",
+      "agency": "Assembly Global / Stagwell",
+      "holdco": "Stagwell",
+      "tier": "TIER 1",
+      "lens": "Europe-wide programmatic remit.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399751&CompanyId=1405195&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Alex Sherr",
+      "title": "Principal Partner",
+      "agency": "Arena Media",
+      "holdco": "Havas",
+      "tier": "TIER 2",
+      "lens": "Only Havas attendee.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397398&CompanyId=1403859&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Esme Wood",
+      "title": "Head of Programmatic",
+      "agency": "the7stars",
+      "holdco": "UK independents",
+      "tier": "INDIE LEAD",
+      "lens": "UK's largest indie media agency. Faster decision, nimble first customer.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397513&CompanyId=1403936&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Matthew Wilké",
+      "title": "Head of Programmatic & Digital Partnerships",
+      "agency": "Mediaplus UK",
+      "holdco": "UK independents",
+      "tier": "INDIE LEAD",
+      "lens": "Media Leader Future 100 Class of 2025.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370211&CompanyId=1388364&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Cameron Armstrong",
+      "title": "Addressable Director",
+      "agency": "VCCP Media",
+      "holdco": "UK independents",
+      "tier": "TIER 2",
+      "lens": "C4 + regulated-vertical brand-side clients.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397522&CompanyId=1403942&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Emmanuel Adepoju",
+      "title": "Addressable Senior Executive",
+      "agency": "VCCP Media",
+      "holdco": "UK independents",
+      "tier": "",
+      "lens": "VCCP working-level entry.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399490&CompanyId=1403942&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Andrea Tinteri",
+      "title": "Head of Programmatic",
+      "agency": "Brilling Media Ltd",
+      "holdco": "UK independents",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397411&CompanyId=1403869&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "John Downs",
+      "title": "Programmatic Business Director",
+      "agency": "The Kite Factory",
+      "holdco": "UK independents",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398242&CompanyId=1404383&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Hannah Melling",
+      "title": "Senior Programmatic Manager",
+      "agency": "Found",
+      "holdco": "UK independents",
+      "tier": "",
+      "lens": "Search / digital specialist.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399585&CompanyId=1405108&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Olimpia Mainka",
+      "title": "Global Performance Director",
+      "agency": "Ptarmigan Media",
+      "holdco": "UK independents",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2398668&CompanyId=1404643&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Emma Babic",
+      "title": "Senior Account Manager",
+      "agency": "Ptarmigan Media",
+      "holdco": "UK independents",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401782&CompanyId=1404643&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Zoe Lloyd",
+      "title": "Business Director",
+      "agency": "Craft London",
+      "holdco": "UK independents",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397418&CompanyId=1403873&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Mohammed Amin",
+      "title": "Programmatic Account Manager",
+      "agency": "Incubeta",
+      "holdco": "UK independents",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2401783&CompanyId=1406142&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Miriam Huaccho",
+      "title": "Programmatic Lead",
+      "agency": "TMWI",
+      "holdco": "UK independents",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397750&CompanyId=1404069&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Amy Lawrence",
+      "title": "Deputy Managing Director",
+      "agency": "GingerMay",
+      "holdco": "UK independents",
+      "tier": "",
+      "lens": "PR / comms agency.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2399750&CompanyId=1388307&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Victoria Usher",
+      "title": "CEO & Founder",
+      "agency": "GingerMay",
+      "holdco": "UK independents",
+      "tier": "",
+      "lens": "PR / comms agency.",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2370088&CompanyId=1388307&from=attendee",
+      "met": false,
+      "follow_up": ""
+    },
+    {
+      "name": "Aleksandra Beyer",
+      "title": "CMO PSYSYS / Founder",
+      "agency": "The Future Female",
+      "holdco": "UK independents",
+      "tier": "",
+      "lens": "",
+      "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397433&CompanyId=1403883&from=attendee",
+      "met": false,
+      "follow_up": ""
+    }
+  ],
+  "better_collective": {
+    "company": {
+      "founded": "2004, Copenhagen, Denmark",
+      "listing": "Nasdaq Copenhagen / Stockholm (ticker BETCO)",
+      "business_model": "Digital sports media + sports-betting affiliate. Revenue blend of rev-share with sportsbooks, CPA, ad sales, subscription.",
+      "self-description": "'Digital sports media group' - deliberate move from 'affiliate' to 'media company' branding over past 3 years",
+      "scale": "2,000+ websites, 30+ languages, 5 offices, 450m monthly visits across House of Brands",
+      "q1_2026_revenue": "EUR 86.3m, +5% YoY",
+      "q1_2026_ebitda": "EUR 25.1m, +14% YoY, 29% margin",
+      "2026_guidance": "7-12% organic revenue growth, 8-18% EBITDA growth (reaffirmed)",
+      "strategic_shift": "Moving from lumpy one-off CPA toward recurring rev-share + subscription for earnings visibility"
+    },
+    "house_of_brands": [
+      {
+        "brand": "HLTV",
+        "description": "World's leading esports (Counter Strike) media + community. Crown jewel for young male sports / gaming audience."
+      },
+      {
+        "brand": "Action Network",
+        "description": "Leading US sports-betting media platform. Acquired 2021 for $240m. US beachhead."
+      },
+      {
+        "brand": "VegasInsider",
+        "description": "US sports-betting tips / lines."
+      },
+      {
+        "brand": "FUTBIN",
+        "description": "FIFA Ultimate Team sports gaming platform."
+      },
+      {
+        "brand": "Playmaker HQ, Rotogrinders, The Nation Network",
+        "description": "US sports media + fantasy."
+      },
+      {
+        "brand": "Bolavip / Futbol Sites",
+        "description": "LatAm sports media network."
+      },
+      {
+        "brand": "bettingexpert.com",
+        "description": "Largest social network for betting tips. 125k+ tips per month."
+      }
+    ],
+    "fanreach": {
+      "what_it_is": "First-party audience data product. Wraps 450m monthly visitors into a single addressable 'sports fan graph' sold to advertisers via DSPs, PMPs, programmatic guaranteed, social.",
+      "launched": "US, February 2026, with 50m+ authenticated sports fans on day one",
+      "uk___eu_status": "International rollout happening now - which is exactly why Barfield is in London",
+      "tech_signals": "AI-driven predictive segmentation + lookalike modelling. Contextual + behavioural signals. DSP-agnostic (works with The Trade Desk, DV360, Yahoo, Adform)",
+      "sits_inside": "AdVantage - Better Collective's data-driven monetisation ecosystem. The post-affiliate-revenue bet.",
+      "betsense": "Dynamic creative product. Generates many creative variants per campaign (odds, fixtures, player names). The canonical CapClear use case."
+    },
+    "in_room_contacts": [
+      {
+        "name": "Will Barfield",
+        "title": "Head of FanReach (Programmatic Lead)",
+        "lens": "PRODUCT - TIER 1",
+        "notes": "Stafford-based. Prior: Lift, Ascend, ShopWired. Product owner for international FanReach rollout. Reports to Rob Brown. Hold CapClear pitch for 10 min - let him walk through FanReach first.",
+        "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397307&CompanyId=1388237&from=attendee",
+        "met": false,
+        "follow_up": ""
+      },
+      {
+        "name": "Rob Brown",
+        "title": "Director, Performance Agency & Media Planning",
+        "lens": "DECISION - TIER 1",
+        "notes": "Barfield's boss. The buying decision on any ad-tech that supports FanReach.",
+        "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397306&CompanyId=1388237&from=attendee",
+        "met": false,
+        "follow_up": ""
+      },
+      {
+        "name": "Craig Harman",
+        "title": "Director of Product and Operations",
+        "lens": "PRODUCT - TIER 1",
+        "notes": "Platform-level product / ops. The right person to scope CapClear plug-in to FanReach delivery.",
+        "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397303&CompanyId=1388237&from=attendee",
+        "met": false,
+        "follow_up": ""
+      },
+      {
+        "name": "Presiyan Stefanov",
+        "title": "Head of Delivery, Paid Media",
+        "lens": "DELIVERY - TIER 2",
+        "notes": "Execution lead under Rob Brown.",
+        "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397305&CompanyId=1388237&from=attendee",
+        "met": false,
+        "follow_up": ""
+      },
+      {
+        "name": "Matthew Tenby",
+        "title": "Senior Campaign Specialist",
+        "lens": "DELIVERY - TIER 2",
+        "notes": "Hands-on campaign delivery. Useful for product validation conversations.",
+        "profile_url": "https://connect-v3.jujama.com/Attendee/Details?PersonId=2397304&CompanyId=1388237&from=attendee",
+        "met": false,
+        "follow_up": ""
+      }
+    ],
+    "why_capclear_account": [
+      {
+        "reason": "1. Gambling vertical fit",
+        "detail": "Gambling is 1 of 5 named CapClear verticals. Better Collective's advertisers are FanDuel, DraftKings, BetMGM, bet365, Flutter, Entain - the brands Clearcast clears for and ASA scrutinises hardest."
+      },
+      {
+        "reason": "2. AI dynamic creative at scale",
+        "detail": "BetSense produces many creative variants per campaign in regulated markets. The canonical CapClear use case - many creatives, all needing compliance check, no human-in-the-loop scale."
+      },
+      {
+        "reason": "3. Trust verification adjacency",
+        "detail": "FanReach positions as privacy-first, authenticated 1P data. Brands want creative-side verification to match. CapClear + MM Verify pair naturally."
+      }
+    ],
+    "action_board": [
+      {
+        "when": "Today",
+        "action": "Will Barfield - introduce, ask him to walk through FanReach. Hold CapClear pitch for 10 min minimum."
+      },
+      {
+        "when": "Today",
+        "action": "Rob Brown - UK / EU commercial expansion timeline. He owns the ad-tech buying decision for FanReach."
+      },
+      {
+        "when": "Today",
+        "action": "Craig Harman - scope CapClear plug-in to FanReach delivery."
+      },
+      {
+        "when": "+14 days",
+        "action": "Structured follow-up with Brown + Harman together. CapClear + MM Verify against gambling vertical + dynamic creative use case."
+      },
+      {
+        "when": "+7 days",
+        "action": "Surface Better Collective in CapClear gambling-vertical workstream as named partnership target."
+      }
+    ],
+    "open_angle": "DO NOT PITCH CAPCLEAR COLD. Start with FanReach. Build the brand and audience relationship FIRST. The bridge: 'When FanReach scales internationally, your advertisers will be running tens of dynamic creative variants per campaign across regulated sports-betting markets. Clearcast and Northell are building the AI clearance layer for exactly that workflow. Can we set up a follow-up with your product team and walk you through CapClear?' This converts a vendor pitch into a partnership exploration."
+  }
+}
